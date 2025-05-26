@@ -1,0 +1,4484 @@
+[
+    {
+        "Date": "2023-05-15",
+        "CustomerId": "fc1fd698-529d-4978-8196-2a4177424066",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 138.52,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "Rochamouth"
+    },
+    {
+        "Date": "2024-04-22",
+        "CustomerId": "8fa43fff-c1cf-4744-9de9-2df45832a513",
+        "ProductName": "Laptop Stand",
+        "Price": 115.27,
+        "Quantity": 4,
+        "Discount": "10%",
+        "Ship to City": "East David"
+    },
+    {
+        "Date": "2024-01-15",
+        "CustomerId": "11155053-7973-48a4-9fd0-56546744e9e1",
+        "ProductName": "Portable Charger",
+        "Price": 476.25,
+        "Quantity": 1,
+        "Discount": "10%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2023-06-12",
+        "CustomerId": "32aaf677-3403-4230-97ad-651ec2b74d24",
+        "ProductName": "Gaming Keyboard",
+        "Price": 24.79,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "Harmonport"
+    },
+    {
+        "Date": "2023-01-11",
+        "CustomerId": "d08ded6e-d60f-44e5-9d88-7db65d774c60",
+        "ProductName": "LED Monitor",
+        "Price": 254.36,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "North Beth"
+    },
+    {
+        "Date": "2023-01-30",
+        "CustomerId": "6c542687-32e8-4994-97e0-ab919e6cfab7",
+        "ProductName": "Laptop Stand",
+        "Price": 35.47,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "South Jonathanhaven"
+    },
+    {
+        "Date": "2023-02-02",
+        "CustomerId": "105293c0-ad92-4905-b50b-2ce3034a99c5",
+        "ProductName": "Wireless Mouse",
+        "Price": 81.9,
+        "Quantity": 4,
+        "Discount": "10%",
+        "Ship to City": "East Susan"
+    },
+    {
+        "Date": "2023-06-09",
+        "CustomerId": "8c66c4f5-791f-4326-8188-3b0910867cac",
+        "ProductName": "Smartphone Case",
+        "Price": 350.42,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "East David"
+    },
+    {
+        "Date": "2024-03-24",
+        "CustomerId": "f051750a-b0a4-44eb-8271-a64da030c163",
+        "ProductName": "Gaming Keyboard",
+        "Price": 184.38,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "South Jonathanhaven"
+    },
+    {
+        "Date": "2024-01-31",
+        "CustomerId": "8e6711d6-4dc9-4fe5-b80a-2ef903ccbc27",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 133.23,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "South Jonathanhaven"
+    },
+    {
+        "Date": "2024-02-15",
+        "CustomerId": "c55c9f86-e916-4bfa-a327-ee56d741244d",
+        "ProductName": "Smart Watch",
+        "Price": 328.81,
+        "Quantity": 5,
+        "Discount": "10%",
+        "Ship to City": "Ericaside"
+    },
+    {
+        "Date": "2024-05-03",
+        "CustomerId": "937bb58b-1185-423e-93ad-d8b207b4460f",
+        "ProductName": "Laptop Stand",
+        "Price": 60.16,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "West Raymondport"
+    },
+    {
+        "Date": "2023-06-03",
+        "CustomerId": "1a5c710c-fc22-4446-89b2-609a75934933",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 204.85,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Smithshire"
+    },
+    {
+        "Date": "2023-07-20",
+        "CustomerId": "1add741b-9771-40d1-adeb-8d3869de1dae",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 85.03,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "North John"
+    },
+    {
+        "Date": "2024-04-29",
+        "CustomerId": "744696fb-82c0-4b3c-b456-ef6e3c162d8e",
+        "ProductName": "Smartphone Case",
+        "Price": 336.31,
+        "Quantity": 1,
+        "Discount": "10%",
+        "Ship to City": "East Debrahaven"
+    },
+    {
+        "Date": "2023-04-08",
+        "CustomerId": "d79d5e23-fbd4-48ea-b2c3-e7b690fa6896",
+        "ProductName": "Smartphone Case",
+        "Price": 130.27,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "Beltranfort"
+    },
+    {
+        "Date": "2024-05-07",
+        "CustomerId": "5cb7eee7-2324-4304-9ea1-d451bb3d11e5",
+        "ProductName": "USB-C Cable",
+        "Price": 138.25,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Danielbury"
+    },
+    {
+        "Date": "2023-11-21",
+        "CustomerId": "b2500168-48d5-44e7-8d48-1a06f65cfa80",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 209.7,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": NaN
+    },
+    {
+        "Date": "2023-03-25",
+        "CustomerId": "219a4532-bbc1-475a-ac31-b14d6b732566",
+        "ProductName": "Smartphone Case",
+        "Price": 486.63,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "South Dana"
+    },
+    {
+        "Date": "2023-12-16",
+        "CustomerId": "b5ee0e43-7be9-497d-b54f-7302771ccb76",
+        "ProductName": "LED Monitor",
+        "Price": 475.66,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Barryberg"
+    },
+    {
+        "Date": "2024-02-23",
+        "CustomerId": "433a12c3-b81a-48be-b856-dc16b3d95c34",
+        "ProductName": "Laptop Stand",
+        "Price": 163.99,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "North Nicoletown"
+    },
+    {
+        "Date": "2023-07-06",
+        "CustomerId": "0560b61b-d5ba-4d42-8f54-77f93f909eb6",
+        "ProductName": "USB-C Cable",
+        "Price": 415.14,
+        "Quantity": 2,
+        "Discount": "5%",
+        "Ship to City": "Port Corey"
+    },
+    {
+        "Date": "2024-03-07",
+        "CustomerId": "04597d8a-94f8-497a-9d33-6398eaaf3851",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 377.07,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "East Jason"
+    },
+    {
+        "Date": "2023-08-20",
+        "CustomerId": "35163236-0adf-4727-833a-3c49d9af09d3",
+        "ProductName": "LED Monitor",
+        "Price": 428.23,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "New Jane"
+    },
+    {
+        "Date": "2024-04-05",
+        "CustomerId": "d976ddbc-2588-432f-8dbb-4cb094d23c6d",
+        "ProductName": "LED Monitor",
+        "Price": 71.1,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2024-02-25",
+        "CustomerId": "39d8b826-2ed5-432f-b945-6584fab1414c",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 483.43,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Rochamouth"
+    },
+    {
+        "Date": "2023-10-19",
+        "CustomerId": "21796640-46b3-4571-b8c8-26eed92f80d0",
+        "ProductName": "Portable Charger",
+        "Price": 473.24,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "New Jane"
+    },
+    {
+        "Date": "2023-08-06",
+        "CustomerId": "ef175231-0535-42e8-8da4-27b81f9717df",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 218.65,
+        "Quantity": 4,
+        "Discount": "20%",
+        "Ship to City": "Port Corey"
+    },
+    {
+        "Date": "2023-08-21",
+        "CustomerId": "8bed3248-5231-4249-a03a-7bd90cd3aa2a",
+        "ProductName": "Smartphone Case",
+        "Price": 293.42,
+        "Quantity": 3,
+        "Discount": "20%",
+        "Ship to City": "East Jason"
+    },
+    {
+        "Date": "2023-07-31",
+        "CustomerId": "56f0b180-338a-461b-b209-25e28fa9568b",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 26.94,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "North Jaredshire"
+    },
+    {
+        "Date": "2023-05-09",
+        "CustomerId": "668909ac-b56d-4b4f-a49a-c4d6d385f74a",
+        "ProductName": "Portable Charger",
+        "Price": 215.1,
+        "Quantity": 1,
+        "Discount": "10%",
+        "Ship to City": "Barryberg"
+    },
+    {
+        "Date": "2024-03-19",
+        "CustomerId": "988f1fff-581e-49a5-9dfc-cf459388b145",
+        "ProductName": "LED Monitor",
+        "Price": 331.74,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Stevenport"
+    },
+    {
+        "Date": "2023-09-15",
+        "CustomerId": "e6e26ed4-a85c-4c8f-82b4-6beff2530954",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 380.74,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "New Melissa"
+    },
+    {
+        "Date": "2023-09-21",
+        "CustomerId": "6ead2941-68b5-41b2-9f85-8df68fd96513",
+        "ProductName": "Wireless Mouse",
+        "Price": 171.06,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "North Beth"
+    },
+    {
+        "Date": "2024-01-01",
+        "CustomerId": "49176b24-70cb-42ec-890b-842f97d57aef",
+        "ProductName": "Smart Watch",
+        "Price": 437.17,
+        "Quantity": 5,
+        "Discount": "20%",
+        "Ship to City": "Desireestad"
+    },
+    {
+        "Date": "2024-04-08",
+        "CustomerId": "a225fca6-5d1a-41f3-b9b0-af0481ab6f9a",
+        "ProductName": "Wireless Mouse",
+        "Price": 389.01,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Harrischester"
+    },
+    {
+        "Date": "2023-04-04",
+        "CustomerId": "8b4a3439-79a0-4b52-baa0-88b5b6e6dc2c",
+        "ProductName": "Laptop Stand",
+        "Price": 72.2,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Stevenport"
+    },
+    {
+        "Date": "2023-01-17",
+        "CustomerId": "8f733a3f-a121-4446-8dda-49ba5d00b845",
+        "ProductName": "USB-C Cable",
+        "Price": 154.71,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "East Shannon"
+    },
+    {
+        "Date": "2023-03-03",
+        "CustomerId": "24628331-4316-4eac-8853-ba2c194b6baa",
+        "ProductName": "Smartphone Case",
+        "Price": 412.9,
+        "Quantity": 5,
+        "Discount": "20%",
+        "Ship to City": "Rodriguezborough"
+    },
+    {
+        "Date": "2024-04-02",
+        "CustomerId": "e1570bf5-1f5b-4f43-a438-5c756a78ea07",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 469.33,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "East David"
+    },
+    {
+        "Date": "2024-04-27",
+        "CustomerId": "d5246938-eab8-4ec8-8c9b-d3e9ea934f17",
+        "ProductName": "Smart Watch",
+        "Price": 80.68,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "East Debrahaven"
+    },
+    {
+        "Date": "2023-08-30",
+        "CustomerId": "3a12876b-0a0a-40a0-aae6-2ec5033b9e6a",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 398.72,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Jensenborough"
+    },
+    {
+        "Date": "2023-09-08",
+        "CustomerId": "e97fda09-41c3-4851-a573-9e4f19a6f10a",
+        "ProductName": "Smart Watch",
+        "Price": 171.47,
+        "Quantity": 2,
+        "Discount": "20%",
+        "Ship to City": "Stevenshire"
+    },
+    {
+        "Date": "2023-06-16",
+        "CustomerId": "f2226399-840b-488d-8b88-927f9eb37f9a",
+        "ProductName": "Smart Watch",
+        "Price": 147.26,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "North Robert"
+    },
+    {
+        "Date": "2023-06-22",
+        "CustomerId": "d0b98dac-b8ae-4499-bcd5-83532917c458",
+        "ProductName": "Gaming Keyboard",
+        "Price": 221.12,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Lanefurt"
+    },
+    {
+        "Date": "2024-03-02",
+        "CustomerId": "35e8f70f-b2da-4e25-96b2-75934c934829",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 462.44,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "East Shannon"
+    },
+    {
+        "Date": "2023-03-24",
+        "CustomerId": "b4bbbe1a-e5a3-4b7f-8b9e-4861ce660cfa",
+        "ProductName": "Portable Charger",
+        "Price": 105.04,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Millerchester"
+    },
+    {
+        "Date": "2023-11-21",
+        "CustomerId": "3a9211da-be8a-4296-bc1e-9009a491e8ab",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 319.38,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "South Jonathanhaven"
+    },
+    {
+        "Date": "2023-02-01",
+        "CustomerId": "35e04533-8448-47e8-a508-7cb98c50edd0",
+        "ProductName": "Wireless Mouse",
+        "Price": 83.18,
+        "Quantity": 2,
+        "Discount": "5%",
+        "Ship to City": "Dalefurt"
+    },
+    {
+        "Date": "2024-03-16",
+        "CustomerId": "2164c0ac-2922-4747-bce5-4401a9d8e0d1",
+        "ProductName": "Laptop Stand",
+        "Price": 358.89,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "North Nicoletown"
+    },
+    {
+        "Date": "2023-05-30",
+        "CustomerId": "55109b63-8948-4daa-a506-297c7470c7f6",
+        "ProductName": "Smartphone Case",
+        "Price": 408.45,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Stevenport"
+    },
+    {
+        "Date": "2023-05-02",
+        "CustomerId": "cef9a983-d9fa-4ecf-bf9e-b6c8991369cb",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 441.12,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Port Corey"
+    },
+    {
+        "Date": "2023-03-07",
+        "CustomerId": "79d42244-96fc-4568-b163-e8c0744e50bc",
+        "ProductName": "Smart Watch",
+        "Price": 287.37,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Smithshire"
+    },
+    {
+        "Date": "2023-10-29",
+        "CustomerId": "c1f8847a-2b9d-4a77-b027-edf27d8cf8fb",
+        "ProductName": "Smart Watch",
+        "Price": 386.61,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Rochamouth"
+    },
+    {
+        "Date": "2023-10-09",
+        "CustomerId": "bda5ac27-ed92-4de8-b3ea-af546f487e4c",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 489.54,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "West Nicoleburgh"
+    },
+    {
+        "Date": "2023-01-14",
+        "CustomerId": "b3f15a63-f0c0-4dfe-8f97-361e21c24989",
+        "ProductName": "Smart Watch",
+        "Price": 117.81,
+        "Quantity": 2,
+        "Discount": "5%",
+        "Ship to City": "Beltranfort"
+    },
+    {
+        "Date": "2023-07-07",
+        "CustomerId": "2f983ff2-f950-4115-a23a-8e245f98ba4e",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 59.67,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "North Robert"
+    },
+    {
+        "Date": "2023-07-08",
+        "CustomerId": "224ccb8d-65e6-431a-b525-ae104a59fb7a",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 394.76,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Manuelview"
+    },
+    {
+        "Date": "2024-02-07",
+        "CustomerId": "ff474ee2-22e8-4d1e-bc42-a78fe713fd96",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 487.11,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Stevenshire"
+    },
+    {
+        "Date": "2023-01-06",
+        "CustomerId": "91033d23-1fa4-46fd-acd7-b46e8eeb6662",
+        "ProductName": "Gaming Keyboard",
+        "Price": 350.0,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Melissaburgh"
+    },
+    {
+        "Date": "2024-03-13",
+        "CustomerId": "2f6bc19a-00a6-4bb9-a19f-0d8e758da1ff",
+        "ProductName": "Smartphone Case",
+        "Price": 214.47,
+        "Quantity": 1,
+        "Discount": "10%",
+        "Ship to City": "East Jason"
+    },
+    {
+        "Date": "2023-11-03",
+        "CustomerId": "82e49711-8bc8-40b6-ad65-9537bd968da4",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 441.36,
+        "Quantity": 5,
+        "Discount": "10%",
+        "Ship to City": "East Susan"
+    },
+    {
+        "Date": "2023-05-03",
+        "CustomerId": "e6a68364-634e-454e-9975-9d1f87c1da23",
+        "ProductName": "Smart Watch",
+        "Price": 25.49,
+        "Quantity": 2,
+        "Discount": "20%",
+        "Ship to City": "South Dana"
+    },
+    {
+        "Date": "2023-07-25",
+        "CustomerId": "e40f95ba-35f8-4d2b-a5b2-8a9d693d9744",
+        "ProductName": "USB-C Cable",
+        "Price": 78.26,
+        "Quantity": 2,
+        "Discount": "10%",
+        "Ship to City": "Danielbury"
+    },
+    {
+        "Date": "2023-05-29",
+        "CustomerId": "819f13a3-927c-45ad-abfc-ccc16f08d6ea",
+        "ProductName": "USB-C Cable",
+        "Price": 224.49,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "North Jaredshire"
+    },
+    {
+        "Date": "2023-01-22",
+        "CustomerId": "718ac191-586b-4967-bc4e-4155aa2fbc8f",
+        "ProductName": "Wireless Mouse",
+        "Price": 210.6,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2023-12-29",
+        "CustomerId": "c8db187b-d70e-4193-812c-2b7761b4e5ca",
+        "ProductName": "Smart Watch",
+        "Price": 379.88,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "South Dana"
+    },
+    {
+        "Date": "2023-09-21",
+        "CustomerId": "3e1a891f-598a-4f03-b344-debd5d547fcf",
+        "ProductName": "Portable Charger",
+        "Price": 493.83,
+        "Quantity": 5,
+        "Discount": "20%",
+        "Ship to City": "North Nicoletown"
+    },
+    {
+        "Date": "2023-11-17",
+        "CustomerId": "32fe029b-1294-4b7c-ae42-d37bbdfdc696",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 324.89,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "East Debrahaven"
+    },
+    {
+        "Date": "2023-10-15",
+        "CustomerId": "41fbbb45-6c7b-44b8-ad07-b56ff531d5e2",
+        "ProductName": "Laptop Stand",
+        "Price": 269.91,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "North Kevin"
+    },
+    {
+        "Date": "2023-10-17",
+        "CustomerId": "21fc6bb1-5b9b-400d-b00a-b6b8d2c3c7fc",
+        "ProductName": "Laptop Stand",
+        "Price": 323.6,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "Lauramouth"
+    },
+    {
+        "Date": "2023-07-02",
+        "CustomerId": "4a894112-8edc-42e7-b505-329774135719",
+        "ProductName": "Laptop Stand",
+        "Price": 111.6,
+        "Quantity": 5,
+        "Discount": "10%",
+        "Ship to City": "East Susan"
+    },
+    {
+        "Date": "2023-03-27",
+        "CustomerId": "0d9d86d2-957d-4852-97c4-beefbdf8c96d",
+        "ProductName": "LED Monitor",
+        "Price": 274.11,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Smithshire"
+    },
+    {
+        "Date": "2023-11-13",
+        "CustomerId": "ca662c86-9ef0-4bd0-bd8b-c6268fef29db",
+        "ProductName": "Smart Watch",
+        "Price": 62.69,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "East David"
+    },
+    {
+        "Date": "2024-04-18",
+        "CustomerId": "acd78f59-8b13-4b04-8a41-76b47ee1d429",
+        "ProductName": "USB-C Cable",
+        "Price": 144.66,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "East Michellemouth"
+    },
+    {
+        "Date": "2023-05-26",
+        "CustomerId": "86b85a3b-586b-40bd-b6cd-7620855d91a3",
+        "ProductName": "Portable Charger",
+        "Price": 220.1,
+        "Quantity": 2,
+        "Discount": "5%",
+        "Ship to City": "South Jonathanhaven"
+    },
+    {
+        "Date": "2023-08-24",
+        "CustomerId": "f413dc03-c37e-41d8-8faa-eef6397e12aa",
+        "ProductName": "Gaming Keyboard",
+        "Price": 265.12,
+        "Quantity": 1,
+        "Discount": "10%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2023-11-12",
+        "CustomerId": "e43bb81c-1a00-4912-aa47-cbcd4a6fc569",
+        "ProductName": "Wireless Mouse",
+        "Price": 365.58,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "North Michael"
+    },
+    {
+        "Date": "2023-12-21",
+        "CustomerId": "8055825a-4bd8-4eb9-9087-d1248f9b66c8",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 387.85,
+        "Quantity": 5,
+        "Discount": "10%",
+        "Ship to City": "Beltranfort"
+    },
+    {
+        "Date": "2024-02-18",
+        "CustomerId": "3a8b44ed-44cb-4a14-9ed2-0627e117f1c3",
+        "ProductName": "Laptop Stand",
+        "Price": 233.71,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2023-06-09",
+        "CustomerId": "b545cfa7-f87c-427f-86df-c89500c415c6",
+        "ProductName": "Smart Watch",
+        "Price": 438.95,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2023-08-08",
+        "CustomerId": "f2c7378e-d982-4ac7-b92c-4f945f5d8541",
+        "ProductName": "USB-C Cable",
+        "Price": 177.16,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Melissaburgh"
+    },
+    {
+        "Date": "2023-05-07",
+        "CustomerId": "14ae282e-6a29-41d4-83a2-343e0cb05f63",
+        "ProductName": "LED Monitor",
+        "Price": 135.36,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "North John"
+    },
+    {
+        "Date": "2024-01-27",
+        "CustomerId": "b710b05f-969d-4d6a-b261-eff8795b260c",
+        "ProductName": "Smart Watch",
+        "Price": 178.94,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Port Corey"
+    },
+    {
+        "Date": "2024-05-13",
+        "CustomerId": "c4e10573-955e-44fd-ad40-d123107a9d6f",
+        "ProductName": "Smartphone Case",
+        "Price": 125.99,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Floresmouth"
+    },
+    {
+        "Date": "2023-05-16",
+        "CustomerId": "3d7aad7e-6101-4156-b34c-f6e5d891e390",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 251.45,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "South Jonathanhaven"
+    },
+    {
+        "Date": "2023-09-07",
+        "CustomerId": "3b9325f9-3f80-460b-9439-690dd10f6e3f",
+        "ProductName": "LED Monitor",
+        "Price": 96.34,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Adamfort"
+    },
+    {
+        "Date": "2023-12-06",
+        "CustomerId": "ce1e7f16-27cc-419f-b127-001eb63ba092",
+        "ProductName": "LED Monitor",
+        "Price": 225.75,
+        "Quantity": 2,
+        "Discount": "5%",
+        "Ship to City": "Port Corey"
+    },
+    {
+        "Date": "2024-04-29",
+        "CustomerId": "9d426322-4f4a-4e9d-9ac8-e6638c27bd1e",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 168.97,
+        "Quantity": 4,
+        "Discount": "20%",
+        "Ship to City": "North Nicoletown"
+    },
+    {
+        "Date": "2023-09-01",
+        "CustomerId": "6ca0875b-4ae4-4da4-837d-16065b4f027b",
+        "ProductName": "USB-C Cable",
+        "Price": 121.51,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "South Jonathanhaven"
+    },
+    {
+        "Date": "2023-11-21",
+        "CustomerId": "1a1c267b-e1ef-425a-9f91-88b70c601f77",
+        "ProductName": "Wireless Mouse",
+        "Price": 304.95,
+        "Quantity": 3,
+        "Discount": "20%",
+        "Ship to City": "Rodriguezborough"
+    },
+    {
+        "Date": "2023-06-19",
+        "CustomerId": "155378ac-6395-4b6c-9242-ea8e76057128",
+        "ProductName": "Smart Watch",
+        "Price": 187.0,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "Ericaside"
+    },
+    {
+        "Date": "2023-05-21",
+        "CustomerId": "71328de8-411c-49f0-bb3a-8a2d4c33c2d9",
+        "ProductName": "Laptop Stand",
+        "Price": 325.44,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Adamfort"
+    },
+    {
+        "Date": "2023-07-24",
+        "CustomerId": "0d9eca73-b0a5-425f-bb84-4e63b7240126",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 121.08,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2024-04-14",
+        "CustomerId": "3ff7c71d-5156-4824-a54b-eca0037d2b10",
+        "ProductName": "Smartphone Case",
+        "Price": 243.75,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "East David"
+    },
+    {
+        "Date": "2023-07-18",
+        "CustomerId": "f7d8812b-8855-498e-8227-8341d223bb84",
+        "ProductName": "Gaming Keyboard",
+        "Price": 30.2,
+        "Quantity": 5,
+        "Discount": "20%",
+        "Ship to City": "Beltranfort"
+    },
+    {
+        "Date": "2024-02-14",
+        "CustomerId": "e6f9ed58-731c-4608-91b2-b225a6450e12",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 391.61,
+        "Quantity": 2,
+        "Discount": "10%",
+        "Ship to City": "Port Corey"
+    },
+    {
+        "Date": "2023-07-08",
+        "CustomerId": "ca22dae4-e862-4f07-bb86-387abf92dc82",
+        "ProductName": "Portable Charger",
+        "Price": 140.7,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "North Beth"
+    },
+    {
+        "Date": "2023-02-20",
+        "CustomerId": "f751cf43-07b1-4d80-9633-7b43bbc4444e",
+        "ProductName": "Wireless Mouse",
+        "Price": 100.98,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Desireestad"
+    },
+    {
+        "Date": "2023-01-09",
+        "CustomerId": "9222e1e9-ca68-401c-ae76-70d400f8cebf",
+        "ProductName": "Gaming Keyboard",
+        "Price": 484.52,
+        "Quantity": 4,
+        "Discount": "10%",
+        "Ship to City": "Rodriguezborough"
+    },
+    {
+        "Date": "2024-01-20",
+        "CustomerId": "4edb0f37-3e7c-4960-9c1d-08ef95677009",
+        "ProductName": "Laptop Stand",
+        "Price": 481.87,
+        "Quantity": 1,
+        "Discount": "10%",
+        "Ship to City": "Desireestad"
+    },
+    {
+        "Date": "2024-03-02",
+        "CustomerId": "4c82bb88-04ae-4328-bdf5-fa0e419e04dd",
+        "ProductName": "USB-C Cable",
+        "Price": 193.32,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Harmonport"
+    },
+    {
+        "Date": "2023-04-01",
+        "CustomerId": "1a82437e-3c2b-470c-b7f0-dfb133a6f6a7",
+        "ProductName": "Laptop Stand",
+        "Price": 111.11,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "East Shannon"
+    },
+    {
+        "Date": "2023-01-16",
+        "CustomerId": "b7dc22cc-27fc-4d9a-9fd4-61a72844052e",
+        "ProductName": "Smart Watch",
+        "Price": 99.26,
+        "Quantity": 4,
+        "Discount": "20%",
+        "Ship to City": "East Susan"
+    },
+    {
+        "Date": "2023-03-16",
+        "CustomerId": "5b86c328-73cb-4a54-8033-859657493c70",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 127.79,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Port Loretta"
+    },
+    {
+        "Date": "2023-11-05",
+        "CustomerId": "85f46e0b-50e4-4753-a4ea-ad0f5d0d7437",
+        "ProductName": "Laptop Stand",
+        "Price": 57.42,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "East Susan"
+    },
+    {
+        "Date": "2023-05-04",
+        "CustomerId": "d70955c5-517b-4a4b-89f5-c62ba000c1f8",
+        "ProductName": "Laptop Stand",
+        "Price": 239.9,
+        "Quantity": 5,
+        "Discount": "10%",
+        "Ship to City": "West Nicoleburgh"
+    },
+    {
+        "Date": "2024-04-06",
+        "CustomerId": "9d3c75d2-8df8-4e54-95e3-034f077f53c3",
+        "ProductName": "Laptop Stand",
+        "Price": 239.69,
+        "Quantity": 4,
+        "Discount": "10%",
+        "Ship to City": "Lanefurt"
+    },
+    {
+        "Date": "2024-01-14",
+        "CustomerId": "384bf671-1f67-47b9-a710-f301baa56579",
+        "ProductName": "Wireless Mouse",
+        "Price": 176.76,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "East Shannon"
+    },
+    {
+        "Date": "2024-03-09",
+        "CustomerId": "f22f4464-2b4f-4749-b224-263517b2a19a",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 313.71,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "North Beth"
+    },
+    {
+        "Date": "2023-11-07",
+        "CustomerId": "4464f0c7-9ee2-42a2-ac97-90805b627523",
+        "ProductName": "LED Monitor",
+        "Price": 60.51,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Rodriguezborough"
+    },
+    {
+        "Date": "2023-08-03",
+        "CustomerId": "4b77a2eb-7dc6-42b2-b495-ee8299cb7889",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 419.19,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "North Robert"
+    },
+    {
+        "Date": "2024-03-17",
+        "CustomerId": "73f1bdb4-e4eb-4e0d-a899-c5befbdd00a2",
+        "ProductName": "Gaming Keyboard",
+        "Price": 284.94,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Melissaburgh"
+    },
+    {
+        "Date": "2023-06-26",
+        "CustomerId": "824db7c6-0080-429a-8326-1d054b4ce6f9",
+        "ProductName": "Portable Charger",
+        "Price": 353.71,
+        "Quantity": 2,
+        "Discount": "20%",
+        "Ship to City": "New Jane"
+    },
+    {
+        "Date": "2023-11-12",
+        "CustomerId": "e835db1b-4795-4a46-9e46-232e0835d018",
+        "ProductName": "Laptop Stand",
+        "Price": 483.9,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Melissaburgh"
+    },
+    {
+        "Date": "2024-04-15",
+        "CustomerId": "3e11bef1-7188-486d-abc7-b7b47e128d8e",
+        "ProductName": "Laptop Stand",
+        "Price": 461.07,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "Smithshire"
+    },
+    {
+        "Date": "2023-11-14",
+        "CustomerId": "d40f1656-657e-4fb4-9fcb-3b757a76834f",
+        "ProductName": "Laptop Stand",
+        "Price": 158.7,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2023-12-24",
+        "CustomerId": "1dbaec3c-881c-45ed-ad99-ed0dbc65c414",
+        "ProductName": "Gaming Keyboard",
+        "Price": 401.06,
+        "Quantity": 4,
+        "Discount": "20%",
+        "Ship to City": "Beltranfort"
+    },
+    {
+        "Date": "2024-03-15",
+        "CustomerId": "9cf2605a-a5ea-47fc-9e28-17126f5b8824",
+        "ProductName": "Smartphone Case",
+        "Price": 311.28,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Ericaside"
+    },
+    {
+        "Date": "2023-05-17",
+        "CustomerId": "13c8839f-c71e-4ebd-8218-544ca3eacf10",
+        "ProductName": "USB-C Cable",
+        "Price": 303.03,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Stevenport"
+    },
+    {
+        "Date": "2024-01-19",
+        "CustomerId": "47ba12e9-9fb9-4953-8453-b821246da84f",
+        "ProductName": "LED Monitor",
+        "Price": 68.97,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "New Melissa"
+    },
+    {
+        "Date": "2023-03-20",
+        "CustomerId": "5e772acd-85fa-48d1-9e2b-0f79c4cc0786",
+        "ProductName": "Portable Charger",
+        "Price": 357.05,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2024-02-27",
+        "CustomerId": "67b49a17-faec-46fe-80f5-14738d0cd01f",
+        "ProductName": "Smartphone Case",
+        "Price": 254.22,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2023-01-13",
+        "CustomerId": "3061cec1-70ca-45fa-888c-f98a82be5fda",
+        "ProductName": "USB-C Cable",
+        "Price": 385.16,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Adamfort"
+    },
+    {
+        "Date": "2024-05-08",
+        "CustomerId": "49fe6081-74de-4b23-a2ef-4bbe7e169461",
+        "ProductName": "Smartphone Case",
+        "Price": 107.62,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Lanefurt"
+    },
+    {
+        "Date": "2023-04-30",
+        "CustomerId": "6ecfe3e9-bd13-4786-be33-f337b6526ca2",
+        "ProductName": "LED Monitor",
+        "Price": 279.47,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2023-12-09",
+        "CustomerId": "8d52e51e-504a-4639-a284-e7d3c5e2e979",
+        "ProductName": "Gaming Keyboard",
+        "Price": 223.07,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Stevenport"
+    },
+    {
+        "Date": "2023-08-16",
+        "CustomerId": "a6ce7bbf-09f6-4362-84e8-eaf51b4cd470",
+        "ProductName": "Wireless Mouse",
+        "Price": 124.81,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "North Robert"
+    },
+    {
+        "Date": "2023-03-26",
+        "CustomerId": "c786477c-2b3d-4c2d-b0ea-5f4403ad86d1",
+        "ProductName": "USB-C Cable",
+        "Price": 49.92,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2023-11-21",
+        "CustomerId": "76757041-12cb-45d4-8eea-8cebe0f5d522",
+        "ProductName": "LED Monitor",
+        "Price": 498.43,
+        "Quantity": 2,
+        "Discount": "5%",
+        "Ship to City": "Jensenborough"
+    },
+    {
+        "Date": "2024-04-02",
+        "CustomerId": "7f9a01bd-566c-4fa9-a1ab-0e267a34a15f",
+        "ProductName": "Smartphone Case",
+        "Price": 207.55,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "North Robert"
+    },
+    {
+        "Date": "2023-10-31",
+        "CustomerId": "8c26e044-c0d5-4d9c-a9fb-02b151af8d1e",
+        "ProductName": "Smartphone Case",
+        "Price": 447.59,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "Beltranfort"
+    },
+    {
+        "Date": "2024-04-29",
+        "CustomerId": "1a001401-a6c6-4e3d-a5a3-4b2b2ae0933a",
+        "ProductName": "Gaming Keyboard",
+        "Price": 375.89,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "New Melissa"
+    },
+    {
+        "Date": "2024-05-14",
+        "CustomerId": "21f5f15d-a783-48f0-9264-b34d794bc299",
+        "ProductName": "USB-C Cable",
+        "Price": 24.14,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "Beltranfort"
+    },
+    {
+        "Date": "2023-07-07",
+        "CustomerId": "ed79301a-4757-4c8a-b5cd-544c89c5d618",
+        "ProductName": "LED Monitor",
+        "Price": 202.16,
+        "Quantity": 1,
+        "Discount": "10%",
+        "Ship to City": "Burgessfort"
+    },
+    {
+        "Date": "2023-01-13",
+        "CustomerId": "09e4a1bf-c666-4b1a-8459-23bfaa97c8d5",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 75.85,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "Desireestad"
+    },
+    {
+        "Date": "2023-06-16",
+        "CustomerId": "adc8b97c-a8ee-4d68-8821-08f03bdea9fa",
+        "ProductName": "Smart Watch",
+        "Price": 278.97,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Rodriguezborough"
+    },
+    {
+        "Date": "2024-04-08",
+        "CustomerId": "2c96004d-4df0-46bb-a6d2-7e8f00dee3a4",
+        "ProductName": "Portable Charger",
+        "Price": 329.84,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Smithshire"
+    },
+    {
+        "Date": "2023-09-20",
+        "CustomerId": "a66a4c37-92ca-4478-b7aa-b84ac5c39883",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 258.22,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Ericaside"
+    },
+    {
+        "Date": "2023-11-21",
+        "CustomerId": "342735b3-a438-4e24-9484-786417e4ef32",
+        "ProductName": "Smart Watch",
+        "Price": 343.3,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Stevenport"
+    },
+    {
+        "Date": "2023-06-09",
+        "CustomerId": "31630ec3-d0a9-48e9-8d25-396cdd5f38e3",
+        "ProductName": "USB-C Cable",
+        "Price": 283.09,
+        "Quantity": 5,
+        "Discount": "10%",
+        "Ship to City": "North Beth"
+    },
+    {
+        "Date": "2023-05-04",
+        "CustomerId": "57246f2b-5a59-4389-b46f-c79f85b94a69",
+        "ProductName": "Laptop Stand",
+        "Price": 205.56,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Stevenshire"
+    },
+    {
+        "Date": "2023-12-23",
+        "CustomerId": "e04e7341-261c-48de-93b9-b857e9b569e2",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 420.15,
+        "Quantity": 4,
+        "Discount": "10%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2024-02-28",
+        "CustomerId": "13e9b293-637a-4498-b74f-cfc2dda2ddda",
+        "ProductName": "LED Monitor",
+        "Price": 323.24,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "East Susan"
+    },
+    {
+        "Date": "2024-02-24",
+        "CustomerId": "c92852b1-2a78-4be4-8e0e-fd5cc7b2f3f5",
+        "ProductName": "LED Monitor",
+        "Price": 450.33,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Melissaburgh"
+    },
+    {
+        "Date": "2023-01-31",
+        "CustomerId": "340fa523-b571-4609-b4e8-9a0ea30bb92e",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 81.52,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "North Michael"
+    },
+    {
+        "Date": "2023-06-19",
+        "CustomerId": "03dac8ef-5a2c-43ad-8ba7-b57769af3e46",
+        "ProductName": "Portable Charger",
+        "Price": 39.76,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Lanefurt"
+    },
+    {
+        "Date": "2023-08-25",
+        "CustomerId": "31253cd2-7f02-4062-b810-12b4560557e0",
+        "ProductName": "Portable Charger",
+        "Price": 419.35,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Dalefurt"
+    },
+    {
+        "Date": "2023-07-01",
+        "CustomerId": "a2df83a0-432f-45de-955b-d9bb31347eec",
+        "ProductName": "USB-C Cable",
+        "Price": 293.55,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "Rochamouth"
+    },
+    {
+        "Date": "2023-10-03",
+        "CustomerId": "6138ea96-31a7-44c3-9831-9f1afa627926",
+        "ProductName": "Smartphone Case",
+        "Price": 59.68,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Rodriguezborough"
+    },
+    {
+        "Date": "2023-10-23",
+        "CustomerId": "c544bcaf-f973-4c58-8445-806f73e3909a",
+        "ProductName": "Gaming Keyboard",
+        "Price": 218.52,
+        "Quantity": 4,
+        "Discount": "20%",
+        "Ship to City": "Newmanbury"
+    },
+    {
+        "Date": "2023-11-25",
+        "CustomerId": "372918c2-2443-4b6a-8923-c525ca523de1",
+        "ProductName": "USB-C Cable",
+        "Price": 36.26,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "Harmonport"
+    },
+    {
+        "Date": "2023-10-29",
+        "CustomerId": "0fd73ae4-5ef9-4904-a7cd-338c33ca87b0",
+        "ProductName": "LED Monitor",
+        "Price": 206.6,
+        "Quantity": 2,
+        "Discount": "10%",
+        "Ship to City": "Danielbury"
+    },
+    {
+        "Date": "2024-04-21",
+        "CustomerId": "494b7726-3e94-483a-b7e4-9db324fa8bd3",
+        "ProductName": "Smartphone Case",
+        "Price": 199.54,
+        "Quantity": 3,
+        "Discount": "20%",
+        "Ship to City": "Stevenport"
+    },
+    {
+        "Date": "2023-06-25",
+        "CustomerId": "44bf9296-6365-44f3-90e4-0f406159cf96",
+        "ProductName": "Wireless Mouse",
+        "Price": 25.27,
+        "Quantity": 1,
+        "Discount": "10%",
+        "Ship to City": "North Beth"
+    },
+    {
+        "Date": "2023-07-05",
+        "CustomerId": "02f16f6c-8a5b-4ec3-86bb-eb99a4231649",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 464.98,
+        "Quantity": 4,
+        "Discount": "10%",
+        "Ship to City": "Rodriguezborough"
+    },
+    {
+        "Date": "2023-12-27",
+        "CustomerId": "e11146d9-cff5-4917-af5d-762d95be0ef6",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 445.86,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Ericaside"
+    },
+    {
+        "Date": "2024-03-20",
+        "CustomerId": "b6352ca0-6b86-4b07-b36c-64f55cf6b5ef",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 418.53,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Ericaside"
+    },
+    {
+        "Date": "2023-07-12",
+        "CustomerId": "dfabea32-99ef-4335-8640-daa0b01ec11e",
+        "ProductName": "LED Monitor",
+        "Price": 464.89,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Melissaburgh"
+    },
+    {
+        "Date": "2023-03-16",
+        "CustomerId": "09703fdc-3e49-454c-a289-0efa94ad5d5b",
+        "ProductName": "Smart Watch",
+        "Price": 426.66,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "East David"
+    },
+    {
+        "Date": "2024-02-13",
+        "CustomerId": "1f84d241-9b64-4fb9-95bd-ea6e28b552e0",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 136.43,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "New Melissa"
+    },
+    {
+        "Date": "2024-03-11",
+        "CustomerId": "e46ab221-ff32-44ef-813d-0ad0e61e748d",
+        "ProductName": "Smart Watch",
+        "Price": 357.89,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Port Corey"
+    },
+    {
+        "Date": "2023-10-05",
+        "CustomerId": "0673e513-7146-49d1-98e1-8ba2ce74d2dd",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 306.65,
+        "Quantity": 4,
+        "Discount": "10%",
+        "Ship to City": "Adamfort"
+    },
+    {
+        "Date": "2024-05-03",
+        "CustomerId": "3e19e3b9-4d76-4255-834b-02267856e822",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 230.58,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Dalefurt"
+    },
+    {
+        "Date": "2024-03-20",
+        "CustomerId": "4abf41b8-08d6-484f-ae73-853d96023f0a",
+        "ProductName": "Wireless Mouse",
+        "Price": 368.96,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "Danielbury"
+    },
+    {
+        "Date": "2023-04-12",
+        "CustomerId": "81970a2b-9ee3-4cf3-9701-18bf3456015f",
+        "ProductName": "Gaming Keyboard",
+        "Price": 123.96,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "Rochamouth"
+    },
+    {
+        "Date": "2023-12-10",
+        "CustomerId": "03f129a5-052f-444e-954f-036fe0d4e8e5",
+        "ProductName": "LED Monitor",
+        "Price": 465.48,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "Jensenborough"
+    },
+    {
+        "Date": "2023-11-17",
+        "CustomerId": "3b17d2db-89a9-49f0-a09f-04535e34659a",
+        "ProductName": "LED Monitor",
+        "Price": 333.34,
+        "Quantity": 5,
+        "Discount": "10%",
+        "Ship to City": "North Jaredshire"
+    },
+    {
+        "Date": "2023-02-13",
+        "CustomerId": "3936219d-1c38-476e-9f77-e9d8601fd548",
+        "ProductName": "Laptop Stand",
+        "Price": 189.82,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Harrischester"
+    },
+    {
+        "Date": "2024-01-12",
+        "CustomerId": "a9040576-5c9f-4e53-bf07-7979f65eaff2",
+        "ProductName": "Wireless Mouse",
+        "Price": 235.18,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "North John"
+    },
+    {
+        "Date": "2024-05-07",
+        "CustomerId": "c07ee056-cfa0-405f-b527-013c11bc95a0",
+        "ProductName": "Smart Watch",
+        "Price": 58.49,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Stevenshire"
+    },
+    {
+        "Date": "2023-05-29",
+        "CustomerId": "e051ac55-61ac-4518-83a3-02a43202bd83",
+        "ProductName": "LED Monitor",
+        "Price": 282.73,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "North Robert"
+    },
+    {
+        "Date": "2024-04-06",
+        "CustomerId": "5fa6ac2f-7d91-40a6-84ae-aacd526cd074",
+        "ProductName": "LED Monitor",
+        "Price": 381.04,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "Lauramouth"
+    },
+    {
+        "Date": "2023-08-10",
+        "CustomerId": "c6f7bda8-c3c2-4546-bc4b-20e5cae9c35d",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 168.3,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "East Shannon"
+    },
+    {
+        "Date": "2024-01-10",
+        "CustomerId": "a2d733a6-4756-4252-af16-c365c7278983",
+        "ProductName": "Gaming Keyboard",
+        "Price": 77.55,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Butlermouth"
+    },
+    {
+        "Date": "2023-12-25",
+        "CustomerId": "104effd0-8461-4371-9ee4-6b2a05eb6823",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 246.78,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Ericaside"
+    },
+    {
+        "Date": "2023-03-30",
+        "CustomerId": "b159e5b6-a300-44cc-89c7-ad54bf34ad58",
+        "ProductName": "Portable Charger",
+        "Price": 234.03,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "Rodriguezborough"
+    },
+    {
+        "Date": "2023-01-25",
+        "CustomerId": "91ade102-e12e-454b-86ee-382436f0e6aa",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 341.9,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2023-02-02",
+        "CustomerId": "856c7fa2-662a-47a3-ab09-2da5d6caff8b",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 296.66,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "West Raymondport"
+    },
+    {
+        "Date": "2023-01-22",
+        "CustomerId": "dec48f34-b99d-402d-a03b-ac2daac7fc90",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 363.72,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Manuelview"
+    },
+    {
+        "Date": "2023-02-09",
+        "CustomerId": "0c455778-043e-49b7-9661-b9d462193385",
+        "ProductName": "LED Monitor",
+        "Price": 434.88,
+        "Quantity": 4,
+        "Discount": "5%",
+        "Ship to City": "North Kevin"
+    },
+    {
+        "Date": "2023-08-09",
+        "CustomerId": "fb55fb7e-5515-4534-8a2a-5bb06e23a4aa",
+        "ProductName": "USB-C Cable",
+        "Price": 129.47,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Stevenshire"
+    },
+    {
+        "Date": "2023-11-29",
+        "CustomerId": "f9647757-b9e3-4fd8-8e80-abf0abcdc060",
+        "ProductName": "Portable Charger",
+        "Price": 427.39,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "East Jason"
+    },
+    {
+        "Date": "2023-12-02",
+        "CustomerId": "d407f01b-f357-4b4f-a353-40dd726497c0",
+        "ProductName": "Smartphone Case",
+        "Price": 216.92,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Jensenborough"
+    },
+    {
+        "Date": "2023-01-14",
+        "CustomerId": "88370d22-ae0c-43d8-ae12-0eeeca71f0aa",
+        "ProductName": "LED Monitor",
+        "Price": 359.31,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Rochamouth"
+    },
+    {
+        "Date": "2023-03-13",
+        "CustomerId": "5b78f8d2-f18b-4378-9431-38ad2b294b4c",
+        "ProductName": "Smart Watch",
+        "Price": 25.95,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "Floresmouth"
+    },
+    {
+        "Date": "2023-09-25",
+        "CustomerId": "a5ad7c59-098d-4651-9806-2036e962e594",
+        "ProductName": "Portable Charger",
+        "Price": 465.15,
+        "Quantity": 5,
+        "Discount": "20%",
+        "Ship to City": "Burgessfort"
+    },
+    {
+        "Date": "2023-04-25",
+        "CustomerId": "70edea35-9fed-4e5f-944e-906dcc3cbd2b",
+        "ProductName": "Smart Watch",
+        "Price": 289.7,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2023-08-30",
+        "CustomerId": "405c6298-d797-4214-b75f-cd38e046e015",
+        "ProductName": "LED Monitor",
+        "Price": 440.14,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "North Jaredshire"
+    },
+    {
+        "Date": "2023-01-13",
+        "CustomerId": "563812bd-ce09-45f3-b2db-949c9a087bfe",
+        "ProductName": "Smartphone Case",
+        "Price": 438.59,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "East Susan"
+    },
+    {
+        "Date": "2023-05-28",
+        "CustomerId": "95bc39c5-1e19-4838-95a3-f2628794b685",
+        "ProductName": "Gaming Keyboard",
+        "Price": 286.82,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Melissaburgh"
+    },
+    {
+        "Date": "2023-09-23",
+        "CustomerId": "a924fefb-dda3-4ad0-9ee3-f4fabf37fdf5",
+        "ProductName": "Laptop Stand",
+        "Price": 304.81,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "East David"
+    },
+    {
+        "Date": "2023-10-06",
+        "CustomerId": "bb4a966a-63bf-4f18-a622-e9c5ae88d824",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 277.01,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Harrischester"
+    },
+    {
+        "Date": "2023-07-07",
+        "CustomerId": "50695ecc-93d4-4ee6-88f7-021a16aeff4f",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 139.2,
+        "Quantity": 3,
+        "Discount": "20%",
+        "Ship to City": "Rodriguezborough"
+    },
+    {
+        "Date": "2023-08-18",
+        "CustomerId": "5e764877-f58d-47db-9dca-cbbf591dfa48",
+        "ProductName": "Smart Watch",
+        "Price": 379.18,
+        "Quantity": 5,
+        "Discount": "10%",
+        "Ship to City": "North John"
+    },
+    {
+        "Date": "2024-01-18",
+        "CustomerId": "45e21de1-12fe-436a-b1cf-ff0ab436510a",
+        "ProductName": "Wireless Mouse",
+        "Price": 43.36,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Lemouth"
+    },
+    {
+        "Date": "2023-08-04",
+        "CustomerId": "1efbde32-697a-4a9a-bdc5-d1ca6fe58ccb",
+        "ProductName": "Smart Watch",
+        "Price": 395.49,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "Dalefurt"
+    },
+    {
+        "Date": "2023-09-23",
+        "CustomerId": "e7a8263f-fab6-4cd4-8d75-c68749609f34",
+        "ProductName": "Gaming Keyboard",
+        "Price": 449.82,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2024-04-15",
+        "CustomerId": "6e998a67-dbbb-47c4-9828-735b0cae9ca1",
+        "ProductName": "Portable Charger",
+        "Price": 81.09,
+        "Quantity": 2,
+        "Discount": "5%",
+        "Ship to City": "Floresmouth"
+    },
+    {
+        "Date": "2023-07-08",
+        "CustomerId": "8968042e-f540-4a43-b28d-0c2335b86664",
+        "ProductName": "Gaming Keyboard",
+        "Price": 120.12,
+        "Quantity": 1,
+        "Discount": "10%",
+        "Ship to City": "North Kevin"
+    },
+    {
+        "Date": "2023-05-23",
+        "CustomerId": "eacc4a92-32a5-4ff3-9454-9993b34c0654",
+        "ProductName": "Portable Charger",
+        "Price": 61.2,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2023-03-02",
+        "CustomerId": "101234ef-b3d8-4897-aee3-e340af2ac9d6",
+        "ProductName": "USB-C Cable",
+        "Price": 343.59,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Floresmouth"
+    },
+    {
+        "Date": "2023-05-14",
+        "CustomerId": "c8139502-b916-4113-af34-2e4b3993521e",
+        "ProductName": "LED Monitor",
+        "Price": 322.56,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "East Susan"
+    },
+    {
+        "Date": "2023-02-14",
+        "CustomerId": "93b20a1e-ebf7-4348-896c-c080bc5feeb4",
+        "ProductName": "LED Monitor",
+        "Price": 342.64,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "North Robert"
+    },
+    {
+        "Date": "2023-04-09",
+        "CustomerId": "edd1c969-f988-47c3-8540-91b5a174e571",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 215.33,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "East Shannon"
+    },
+    {
+        "Date": "2024-04-08",
+        "CustomerId": "ac875fd1-cf24-460d-9d22-e4e8d7d2190e",
+        "ProductName": "Portable Charger",
+        "Price": 375.12,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2024-03-15",
+        "CustomerId": "fc37dc78-a8ec-4df4-9ed4-c707820d94c2",
+        "ProductName": "Smartphone Case",
+        "Price": 367.62,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "Manuelview"
+    },
+    {
+        "Date": "2024-01-07",
+        "CustomerId": "e607f471-9d2f-4da4-91e7-669f437047ee",
+        "ProductName": "Wireless Mouse",
+        "Price": 67.75,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Lemouth"
+    },
+    {
+        "Date": "2023-01-02",
+        "CustomerId": "5adde77d-f563-461b-9c2e-1c7057ec56ab",
+        "ProductName": "Portable Charger",
+        "Price": 489.01,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Port Loretta"
+    },
+    {
+        "Date": "2024-03-05",
+        "CustomerId": "aa33ff2e-b6ed-437f-8fe5-58fe0512a74a",
+        "ProductName": "LED Monitor",
+        "Price": 66.57,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "East Lisa"
+    },
+    {
+        "Date": "2023-02-17",
+        "CustomerId": "76936391-fff8-4aad-a77b-e94eadc89b6f",
+        "ProductName": "Gaming Keyboard",
+        "Price": 423.66,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Rodriguezborough"
+    },
+    {
+        "Date": "2023-09-12",
+        "CustomerId": "f7f53c68-7ea5-47d6-a064-ed5469cbe736",
+        "ProductName": "USB-C Cable",
+        "Price": 216.03,
+        "Quantity": 2,
+        "Discount": "20%",
+        "Ship to City": "East Jason"
+    },
+    {
+        "Date": "2023-08-24",
+        "CustomerId": "3a0e7da5-db38-4614-b77e-bb239ae95a11",
+        "ProductName": "Laptop Stand",
+        "Price": 88.4,
+        "Quantity": 2,
+        "Discount": "10%",
+        "Ship to City": "Butlermouth"
+    },
+    {
+        "Date": "2023-03-08",
+        "CustomerId": "b58b7919-6add-456c-9d63-f50a6d6c2604",
+        "ProductName": "Portable Charger",
+        "Price": 134.54,
+        "Quantity": 5,
+        "Discount": "20%",
+        "Ship to City": "West Nicoleburgh"
+    },
+    {
+        "Date": "2023-06-22",
+        "CustomerId": "4ac72944-a252-4de0-8cd3-c100ab822341",
+        "ProductName": "Wireless Mouse",
+        "Price": 217.72,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Newmanbury"
+    },
+    {
+        "Date": "2024-05-01",
+        "CustomerId": "f17cbf61-3af8-4717-a120-688c7d429244",
+        "ProductName": "Portable Charger",
+        "Price": 13.95,
+        "Quantity": 3,
+        "Discount": "20%",
+        "Ship to City": "East Susan"
+    },
+    {
+        "Date": "2024-05-02",
+        "CustomerId": "a7f63010-5577-4dfd-929c-c7b14ee6df55",
+        "ProductName": "USB-C Cable",
+        "Price": 70.07,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Adamfort"
+    },
+    {
+        "Date": "2024-02-22",
+        "CustomerId": "14a0e10b-32ee-4acf-a22e-6480bc6c2ead",
+        "ProductName": "Gaming Keyboard",
+        "Price": 256.01,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Millerchester"
+    },
+    {
+        "Date": "2023-08-06",
+        "CustomerId": "19984163-fe2d-4ddf-b122-ace53fed9845",
+        "ProductName": "Portable Charger",
+        "Price": 491.58,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "East Shannon"
+    },
+    {
+        "Date": "2024-01-06",
+        "CustomerId": "c5773cb7-9165-4f83-a39f-280ddcb4af0f",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 30.11,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "North Nicoletown"
+    },
+    {
+        "Date": "2023-11-01",
+        "CustomerId": "c6bce127-f5f0-4ce8-97a3-75b00c57b237",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 376.3,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "East Shannon"
+    },
+    {
+        "Date": "2024-04-03",
+        "CustomerId": "d640db80-a13b-4c29-b6f3-f07114879523",
+        "ProductName": "Smart Watch",
+        "Price": 258.27,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "Butlermouth"
+    },
+    {
+        "Date": "2023-01-31",
+        "CustomerId": "6b870fb5-49f6-491c-bcc0-f25342078029",
+        "ProductName": "Gaming Keyboard",
+        "Price": 464.02,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "Stevenport"
+    },
+    {
+        "Date": "2024-02-01",
+        "CustomerId": "31d8d2d5-8d78-4d0b-8478-98eb324b9fd1",
+        "ProductName": "Gaming Keyboard",
+        "Price": 301.11,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "East Jason"
+    },
+    {
+        "Date": "2023-09-30",
+        "CustomerId": "d0c424a9-76eb-4fb6-9b42-e3af456c719a",
+        "ProductName": "Portable Charger",
+        "Price": 307.75,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Danielbury"
+    },
+    {
+        "Date": "2023-03-04",
+        "CustomerId": "c619de0c-19a2-45ac-b549-46289c80e2fb",
+        "ProductName": "Gaming Keyboard",
+        "Price": 374.37,
+        "Quantity": 4,
+        "Discount": "10%",
+        "Ship to City": "Rochamouth"
+    },
+    {
+        "Date": "2023-05-25",
+        "CustomerId": "3d3a1ecf-0f9b-4cb6-a4ba-ebefffd43890",
+        "ProductName": "Smartphone Case",
+        "Price": 262.65,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "East Susan"
+    },
+    {
+        "Date": "2023-08-15",
+        "CustomerId": "a09aceec-bb81-4e38-8b55-f083fddaf168",
+        "ProductName": "USB-C Cable",
+        "Price": 450.52,
+        "Quantity": 2,
+        "Discount": "5%",
+        "Ship to City": "East Lisa"
+    },
+    {
+        "Date": "2024-01-14",
+        "CustomerId": "411959b9-9592-4ebf-b686-425dbd2e1508",
+        "ProductName": "Laptop Stand",
+        "Price": 163.02,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Harmonport"
+    },
+    {
+        "Date": "2023-08-18",
+        "CustomerId": "068f51cc-95d5-4135-aae2-324c5747eedc",
+        "ProductName": "Laptop Stand",
+        "Price": 196.27,
+        "Quantity": 5,
+        "Discount": "10%",
+        "Ship to City": "North Kevin"
+    },
+    {
+        "Date": "2023-04-01",
+        "CustomerId": "00945d15-f8a2-4c42-a1c9-312447e55855",
+        "ProductName": "Smart Watch",
+        "Price": 350.68,
+        "Quantity": 2,
+        "Discount": "20%",
+        "Ship to City": "Stevenport"
+    },
+    {
+        "Date": "2023-10-24",
+        "CustomerId": "d5f34f1f-702b-4ada-892d-5e162c0e02aa",
+        "ProductName": "Portable Charger",
+        "Price": 394.08,
+        "Quantity": 2,
+        "Discount": "10%",
+        "Ship to City": "Desireestad"
+    },
+    {
+        "Date": "2023-03-31",
+        "CustomerId": "63cf0d1f-ac39-44c7-960f-d6a9f119be12",
+        "ProductName": "LED Monitor",
+        "Price": 137.83,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "North Kevin"
+    },
+    {
+        "Date": "2023-02-09",
+        "CustomerId": "04ec013a-23a0-4501-9f56-b09008c6ddf3",
+        "ProductName": "Gaming Keyboard",
+        "Price": 42.74,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Port Loretta"
+    },
+    {
+        "Date": "2023-08-18",
+        "CustomerId": "828a6fd8-41fe-45f1-a40e-96ade19b7772",
+        "ProductName": "LED Monitor",
+        "Price": 487.18,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Butlermouth"
+    },
+    {
+        "Date": "2023-07-29",
+        "CustomerId": "7f5f4b84-42ea-4aa4-a9b4-e857f4138b23",
+        "ProductName": "Portable Charger",
+        "Price": 53.33,
+        "Quantity": 2,
+        "Discount": "20%",
+        "Ship to City": "Ericaside"
+    },
+    {
+        "Date": "2023-05-22",
+        "CustomerId": "4aead572-512b-4034-83b9-98942dae1b59",
+        "ProductName": "Portable Charger",
+        "Price": 351.78,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Lauramouth"
+    },
+    {
+        "Date": "2023-11-02",
+        "CustomerId": "3238ac4b-3a6e-47e4-9bb3-ec8ec082e143",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 489.09,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "East David"
+    },
+    {
+        "Date": "2023-11-20",
+        "CustomerId": "41a67257-1f91-458d-bcd9-f22187918a7c",
+        "ProductName": "Portable Charger",
+        "Price": 344.3,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Stevenport"
+    },
+    {
+        "Date": "2023-05-28",
+        "CustomerId": "3d7061b4-6835-4c47-9f31-36036517d5ec",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 86.81,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "Ericaside"
+    },
+    {
+        "Date": "2023-09-05",
+        "CustomerId": "7aa38e0d-6127-47b6-8d38-9c816e0aff3b",
+        "ProductName": "LED Monitor",
+        "Price": 254.81,
+        "Quantity": 2,
+        "Discount": "5%",
+        "Ship to City": "North Beth"
+    },
+    {
+        "Date": "2023-07-21",
+        "CustomerId": "e4a61dd8-b4b5-4e5b-8954-e64cbbcb6b03",
+        "ProductName": "Smartphone Case",
+        "Price": 209.25,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2023-08-18",
+        "CustomerId": "2847831a-ec2e-45c9-b08e-22450d6f883b",
+        "ProductName": "USB-C Cable",
+        "Price": 67.92,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "North Nicoletown"
+    },
+    {
+        "Date": "2023-01-16",
+        "CustomerId": "0ed0675b-fc83-4d53-8548-d056ca42a74c",
+        "ProductName": "USB-C Cable",
+        "Price": 76.64,
+        "Quantity": 2,
+        "Discount": "20%",
+        "Ship to City": "North Michael"
+    },
+    {
+        "Date": "2023-05-06",
+        "CustomerId": "4b516884-cc0f-4efd-b02c-578191a92875",
+        "ProductName": "Smart Watch",
+        "Price": 264.47,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Danielbury"
+    },
+    {
+        "Date": "2023-07-23",
+        "CustomerId": "7af4a17f-f97a-4e28-ad75-032b0e52a91e",
+        "ProductName": "USB-C Cable",
+        "Price": 148.58,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "Danielbury"
+    },
+    {
+        "Date": "2023-10-09",
+        "CustomerId": "4d3bef73-f39c-43e3-88eb-ac529a653dda",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 347.24,
+        "Quantity": 2,
+        "Discount": "10%",
+        "Ship to City": "Beltranfort"
+    },
+    {
+        "Date": "2024-01-19",
+        "CustomerId": "b1bb43fc-572c-4ed4-99db-504c787d839a",
+        "ProductName": "USB-C Cable",
+        "Price": 360.14,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "East David"
+    },
+    {
+        "Date": "2024-01-26",
+        "CustomerId": "9ce60e41-5fb3-47c5-bdd5-6e9f5bb69f1e",
+        "ProductName": "Gaming Keyboard",
+        "Price": 69.98,
+        "Quantity": 4,
+        "Discount": "10%",
+        "Ship to City": "South Dana"
+    },
+    {
+        "Date": "2023-03-21",
+        "CustomerId": "307332df-77ad-4190-8d15-5b4026173440",
+        "ProductName": "USB-C Cable",
+        "Price": 349.42,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "East Michellemouth"
+    },
+    {
+        "Date": "2023-05-07",
+        "CustomerId": "ae38944e-eb8f-490c-977e-d8fd6896947b",
+        "ProductName": "Portable Charger",
+        "Price": 333.6,
+        "Quantity": 5,
+        "Discount": "20%",
+        "Ship to City": "Burgessfort"
+    },
+    {
+        "Date": "2023-11-08",
+        "CustomerId": "70eb6675-a795-4d21-94e9-568f16de8dd7",
+        "ProductName": "Smart Watch",
+        "Price": 220.23,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Ericaside"
+    },
+    {
+        "Date": "2023-12-03",
+        "CustomerId": "84d59634-e8df-455d-868c-8798a6396cda",
+        "ProductName": "Portable Charger",
+        "Price": 333.92,
+        "Quantity": 2,
+        "Discount": "10%",
+        "Ship to City": "Lanefurt"
+    },
+    {
+        "Date": "2023-05-14",
+        "CustomerId": "0df5b68e-13c6-4502-ba86-892a56eaec8c",
+        "ProductName": "Smart Watch",
+        "Price": 128.56,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "West Nicoleburgh"
+    },
+    {
+        "Date": "2023-07-04",
+        "CustomerId": "dfc0cf7a-3aca-48a5-99ea-7e7c54008334",
+        "ProductName": "Gaming Keyboard",
+        "Price": 286.42,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "East Susan"
+    },
+    {
+        "Date": "2023-12-29",
+        "CustomerId": "a8086ae9-63b7-4695-bad6-675c3406c8fd",
+        "ProductName": "Laptop Stand",
+        "Price": 38.74,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Jensenborough"
+    },
+    {
+        "Date": "2023-04-20",
+        "CustomerId": "79e0c76b-6fa7-439d-8a9c-3e4263b1cf98",
+        "ProductName": "Portable Charger",
+        "Price": 385.73,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Stevenshire"
+    },
+    {
+        "Date": "2023-01-18",
+        "CustomerId": "9f9d7c15-561f-49f2-95ad-f2b90fc2210f",
+        "ProductName": "Smart Watch",
+        "Price": 322.1,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "Harmonport"
+    },
+    {
+        "Date": "2024-05-14",
+        "CustomerId": "e671daf0-8c29-41c7-92b9-e8059832be92",
+        "ProductName": "Laptop Stand",
+        "Price": 85.73,
+        "Quantity": 2,
+        "Discount": "5%",
+        "Ship to City": "Butlermouth"
+    },
+    {
+        "Date": "2024-01-05",
+        "CustomerId": "c01ed8bc-1e34-4e9f-bdd1-4350bf15e0a3",
+        "ProductName": "Wireless Mouse",
+        "Price": 261.59,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Smithshire"
+    },
+    {
+        "Date": "2023-05-14",
+        "CustomerId": "78ef3fad-50e9-406c-90cb-cf5426369052",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 426.69,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2024-01-04",
+        "CustomerId": "e7d41df3-8774-49fb-833d-fd126788de5d",
+        "ProductName": "Portable Charger",
+        "Price": 406.69,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "New Jane"
+    },
+    {
+        "Date": "2023-07-27",
+        "CustomerId": "b9b8e368-67d5-498f-8e91-8963823ae9cc",
+        "ProductName": "Portable Charger",
+        "Price": 316.45,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "East Susan"
+    },
+    {
+        "Date": "2023-05-11",
+        "CustomerId": "b00caad9-709c-435c-9452-84ce00f04e55",
+        "ProductName": "Smart Watch",
+        "Price": 433.91,
+        "Quantity": 3,
+        "Discount": "20%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2023-12-10",
+        "CustomerId": "5cd01bdf-8757-4d9d-a39b-1f70dde3f4f5",
+        "ProductName": "Laptop Stand",
+        "Price": 369.92,
+        "Quantity": 5,
+        "Discount": "20%",
+        "Ship to City": "Lauramouth"
+    },
+    {
+        "Date": "2023-11-15",
+        "CustomerId": "e7c0278a-1eae-469f-afb5-a7aa500b2727",
+        "ProductName": "Smartphone Case",
+        "Price": 262.84,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "West Nicoleburgh"
+    },
+    {
+        "Date": "2024-01-30",
+        "CustomerId": "bddb2cd6-3e44-4f5c-a8ff-c7bf5bb22c30",
+        "ProductName": "Gaming Keyboard",
+        "Price": 279.23,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "Newmanbury"
+    },
+    {
+        "Date": "2023-06-19",
+        "CustomerId": "7ca59d4e-7252-4273-abf9-918c9e686f19",
+        "ProductName": "Smartphone Case",
+        "Price": 18.88,
+        "Quantity": 1,
+        "Discount": "10%",
+        "Ship to City": "East David"
+    },
+    {
+        "Date": "2024-05-04",
+        "CustomerId": "4ba8c99d-85ba-4516-be2d-69af72264208",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 321.65,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Rochamouth"
+    },
+    {
+        "Date": "2024-01-30",
+        "CustomerId": "42cc34ef-8415-4cc9-be9b-9fe8a35ec9cd",
+        "ProductName": "Portable Charger",
+        "Price": 211.69,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "South Jonathanhaven"
+    },
+    {
+        "Date": "2023-09-13",
+        "CustomerId": "d36374fc-3aec-4fcb-83c2-df734a320208",
+        "ProductName": "Laptop Stand",
+        "Price": 221.58,
+        "Quantity": 2,
+        "Discount": "5%",
+        "Ship to City": "East Jason"
+    },
+    {
+        "Date": "2023-03-01",
+        "CustomerId": "123066b8-cd65-481f-b348-0f28191c8ed8",
+        "ProductName": "Laptop Stand",
+        "Price": 189.04,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Lauramouth"
+    },
+    {
+        "Date": "2024-04-09",
+        "CustomerId": "03608dbb-0471-4381-a028-f75fef26e48e",
+        "ProductName": "Smart Watch",
+        "Price": 378.26,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "East David"
+    },
+    {
+        "Date": "2023-11-26",
+        "CustomerId": "a31d9c08-e24a-451f-8fae-0577c9a7d7c3",
+        "ProductName": "Smartphone Case",
+        "Price": 182.52,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "East Michellemouth"
+    },
+    {
+        "Date": "2024-02-24",
+        "CustomerId": "9bd0ba3f-0e97-48fc-8f4f-7e2d2e9996a8",
+        "ProductName": "Smartphone Case",
+        "Price": 49.72,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "West Nicoleburgh"
+    },
+    {
+        "Date": "2024-02-29",
+        "CustomerId": "8530e98d-a945-47a2-9aeb-829a0bd94df7",
+        "ProductName": "Wireless Mouse",
+        "Price": 178.7,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Adamfort"
+    },
+    {
+        "Date": "2023-12-20",
+        "CustomerId": "d9834411-fee4-4759-a419-a58b64966d5c",
+        "ProductName": "Laptop Stand",
+        "Price": 13.36,
+        "Quantity": 5,
+        "Discount": "10%",
+        "Ship to City": "North Hannahton"
+    },
+    {
+        "Date": "2023-05-04",
+        "CustomerId": "a03c94a3-1909-4c62-93ce-e8709fcf025b",
+        "ProductName": "Smart Watch",
+        "Price": 73.97,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Burgessfort"
+    },
+    {
+        "Date": "2023-08-17",
+        "CustomerId": "77d7cfa7-a759-4ff2-bae9-02f6b05f9734",
+        "ProductName": "Wireless Mouse",
+        "Price": 434.22,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "Dalefurt"
+    },
+    {
+        "Date": "2023-07-13",
+        "CustomerId": "b7db8247-923c-41be-a19e-b2ab8303357e",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 216.61,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "East Lisa"
+    },
+    {
+        "Date": "2024-01-02",
+        "CustomerId": "000fd890-45c2-4b2c-8c3d-ee1910867516",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 282.0,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Manuelview"
+    },
+    {
+        "Date": "2024-03-27",
+        "CustomerId": "c74c6d01-a45d-4122-b998-588b121ade2d",
+        "ProductName": "Smart Watch",
+        "Price": 308.0,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Lanefurt"
+    },
+    {
+        "Date": "2023-05-31",
+        "CustomerId": "9bb59550-37d7-4493-a877-000ceee29eb2",
+        "ProductName": "Smart Watch",
+        "Price": 164.83,
+        "Quantity": 5,
+        "Discount": "20%",
+        "Ship to City": "Lemouth"
+    },
+    {
+        "Date": "2023-09-29",
+        "CustomerId": "be602e1b-1453-49da-a985-707e1895f0c3",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 303.23,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Burgessfort"
+    },
+    {
+        "Date": "2024-02-07",
+        "CustomerId": "58ac6a6e-cbe4-4a3d-8df8-bd1e00627338",
+        "ProductName": "LED Monitor",
+        "Price": 476.94,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "North Kevin"
+    },
+    {
+        "Date": "2023-05-05",
+        "CustomerId": "5e0bc7e6-3393-43bc-96a9-320bfedab6eb",
+        "ProductName": "Gaming Keyboard",
+        "Price": 267.99,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "North John"
+    },
+    {
+        "Date": "2023-09-23",
+        "CustomerId": "478de9b5-f394-4767-b695-387c1fb6953f",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 95.96,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "Floresmouth"
+    },
+    {
+        "Date": "2023-02-01",
+        "CustomerId": "64bbe98f-c0b1-48b3-b1ca-188c91d7a084",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 341.45,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Stevenshire"
+    },
+    {
+        "Date": "2023-01-02",
+        "CustomerId": "d56e49aa-4edb-40d5-9fc9-a3e471ab049f",
+        "ProductName": "USB-C Cable",
+        "Price": 50.87,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Manuelview"
+    },
+    {
+        "Date": "2023-04-08",
+        "CustomerId": "cc042eb7-1f0f-46bf-814c-2b12d428d0ca",
+        "ProductName": "Laptop Stand",
+        "Price": 70.84,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Ericaside"
+    },
+    {
+        "Date": "2023-06-01",
+        "CustomerId": "e5649b75-cd5b-47f5-977b-26119260a7cb",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 386.66,
+        "Quantity": 2,
+        "Discount": "10%",
+        "Ship to City": "North John"
+    },
+    {
+        "Date": "2023-06-19",
+        "CustomerId": "974da132-6721-46d1-ae0f-6b8c559df694",
+        "ProductName": "LED Monitor",
+        "Price": 483.55,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "Burgessfort"
+    },
+    {
+        "Date": "2023-06-01",
+        "CustomerId": "6a8aead0-4245-490c-a741-a4a77d925422",
+        "ProductName": "LED Monitor",
+        "Price": 278.6,
+        "Quantity": 2,
+        "Discount": "20%",
+        "Ship to City": "East Debrahaven"
+    },
+    {
+        "Date": "2023-08-26",
+        "CustomerId": "07ad58b1-0db4-4c58-a125-da5dff1ce0e0",
+        "ProductName": "Gaming Keyboard",
+        "Price": 307.73,
+        "Quantity": 2,
+        "Discount": "10%",
+        "Ship to City": "Port Loretta"
+    },
+    {
+        "Date": "2023-05-22",
+        "CustomerId": "5931d871-e62b-4790-aec3-2a2a0c690ee1",
+        "ProductName": "Smartphone Case",
+        "Price": 24.14,
+        "Quantity": 4,
+        "Discount": "10%",
+        "Ship to City": "North Nicoletown"
+    },
+    {
+        "Date": "2024-03-10",
+        "CustomerId": "5398e7dc-844b-43f1-a8ed-9347ae98a153",
+        "ProductName": "Portable Charger",
+        "Price": 330.71,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2023-07-14",
+        "CustomerId": "9395141f-18b2-4800-bdac-bac9b7b8b073",
+        "ProductName": "Smartphone Case",
+        "Price": 117.48,
+        "Quantity": 4,
+        "Discount": "5%",
+        "Ship to City": "Harmonport"
+    },
+    {
+        "Date": "2024-01-22",
+        "CustomerId": "6968b7ac-d55b-4002-af4e-8b63ff13b100",
+        "ProductName": "LED Monitor",
+        "Price": 427.5,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Burgessfort"
+    },
+    {
+        "Date": "2023-01-24",
+        "CustomerId": "ea78e827-785f-4bcf-ab20-001b2619daca",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 106.68,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "West Raymondport"
+    },
+    {
+        "Date": "2023-03-11",
+        "CustomerId": "40a015f1-368b-47dd-8450-2075c48de20d",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 84.55,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Adamfort"
+    },
+    {
+        "Date": "2023-07-28",
+        "CustomerId": "852249e8-2d38-431c-a44c-4214d90f50a1",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 245.26,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Burgessfort"
+    },
+    {
+        "Date": "2023-02-15",
+        "CustomerId": "088bc6b7-2763-4ad1-951f-451ae4e2a161",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 426.94,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Melissaburgh"
+    },
+    {
+        "Date": "2023-12-15",
+        "CustomerId": "90f07346-c120-4a8f-a915-312008e44949",
+        "ProductName": "LED Monitor",
+        "Price": 74.46,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Smithshire"
+    },
+    {
+        "Date": "2023-09-30",
+        "CustomerId": "6ddfb7e2-49cd-42c3-a9df-f2226dd5bf45",
+        "ProductName": "USB-C Cable",
+        "Price": 134.6,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "Ericaside"
+    },
+    {
+        "Date": "2023-10-18",
+        "CustomerId": "176ac276-a2b4-423d-b9a9-27f62fe592f5",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 215.81,
+        "Quantity": 4,
+        "Discount": "10%",
+        "Ship to City": "Stevenport"
+    },
+    {
+        "Date": "2023-02-04",
+        "CustomerId": "c40cd277-15e9-4427-9cb2-fbd0ae3d3627",
+        "ProductName": "Smartphone Case",
+        "Price": 292.52,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "South Jonathanhaven"
+    },
+    {
+        "Date": "2023-03-13",
+        "CustomerId": "cab71340-c519-41b3-a722-68f8c9cd0200",
+        "ProductName": "Wireless Mouse",
+        "Price": 221.3,
+        "Quantity": 5,
+        "Discount": "10%",
+        "Ship to City": "New Jane"
+    },
+    {
+        "Date": "2023-02-02",
+        "CustomerId": "30d19175-90a4-416d-86ed-0aa01ad18429",
+        "ProductName": "Smart Watch",
+        "Price": 131.58,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Danielbury"
+    },
+    {
+        "Date": "2023-08-11",
+        "CustomerId": "0752c9ff-f501-4a8e-b800-74504acf1cb0",
+        "ProductName": "Wireless Mouse",
+        "Price": 29.81,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "Smithshire"
+    },
+    {
+        "Date": "2024-05-04",
+        "CustomerId": "9a4e4445-b87a-43ec-83f8-919bb98905b5",
+        "ProductName": "LED Monitor",
+        "Price": 249.92,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "North Michael"
+    },
+    {
+        "Date": "2023-02-13",
+        "CustomerId": "618361b4-dd26-4f26-b516-b2237d751463",
+        "ProductName": "Wireless Mouse",
+        "Price": 108.17,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "Ericaside"
+    },
+    {
+        "Date": "2024-05-06",
+        "CustomerId": "79e05f41-5301-4aeb-94e7-750d4958828b",
+        "ProductName": "Gaming Keyboard",
+        "Price": 46.32,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "New Jane"
+    },
+    {
+        "Date": "2023-11-27",
+        "CustomerId": "8a1e901a-2a20-4524-a9b8-0caa488144fd",
+        "ProductName": "LED Monitor",
+        "Price": 373.85,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Port Corey"
+    },
+    {
+        "Date": "2024-02-04",
+        "CustomerId": "6a6b2aa9-ba7c-4b13-932a-4084927115ee",
+        "ProductName": "LED Monitor",
+        "Price": 45.76,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "Manuelview"
+    },
+    {
+        "Date": "2023-08-25",
+        "CustomerId": "38ede3d4-1ec6-46af-90be-0634f9b3e826",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 242.45,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Rodriguezborough"
+    },
+    {
+        "Date": "2024-04-10",
+        "CustomerId": "dae391b1-f764-453c-b9dd-a91c28f969b9",
+        "ProductName": "Wireless Mouse",
+        "Price": 172.5,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "South Dana"
+    },
+    {
+        "Date": "2023-01-11",
+        "CustomerId": "1c742d8e-1043-4b32-bdb4-0acfe72dfa2f",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 351.2,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Beltranfort"
+    },
+    {
+        "Date": "2023-12-21",
+        "CustomerId": "5f1d2591-06b3-4c2e-909a-1d219da591c9",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 270.98,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Newmanbury"
+    },
+    {
+        "Date": "2024-04-28",
+        "CustomerId": "71fc83e6-47ab-4322-8a7f-f879318c9eba",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 498.67,
+        "Quantity": 5,
+        "Discount": "10%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2023-08-01",
+        "CustomerId": "1d0b64ee-78db-48ef-8b51-f763418116dd",
+        "ProductName": "Portable Charger",
+        "Price": 400.54,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Butlermouth"
+    },
+    {
+        "Date": "2023-12-23",
+        "CustomerId": "da02e3a8-9801-49d8-b309-9204eae97c70",
+        "ProductName": "Wireless Mouse",
+        "Price": 342.48,
+        "Quantity": 4,
+        "Discount": "20%",
+        "Ship to City": "Manuelview"
+    },
+    {
+        "Date": "2023-01-09",
+        "CustomerId": "7d6d7016-e347-45d4-8043-b474c64cc57a",
+        "ProductName": "Smartphone Case",
+        "Price": 473.56,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "North Nicoletown"
+    },
+    {
+        "Date": "2024-02-21",
+        "CustomerId": "9372d782-eab1-4173-910f-d3fcc100f750",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 114.43,
+        "Quantity": 3,
+        "Discount": "20%",
+        "Ship to City": "Rochamouth"
+    },
+    {
+        "Date": "2023-11-25",
+        "CustomerId": "518ccb87-0f30-4eaa-9efe-163f8ca880d9",
+        "ProductName": "Smartphone Case",
+        "Price": 143.45,
+        "Quantity": 4,
+        "Discount": "20%",
+        "Ship to City": "East Michellemouth"
+    },
+    {
+        "Date": "2024-05-10",
+        "CustomerId": "92b00a5f-5688-442d-b846-68c61e7ebfe6",
+        "ProductName": "LED Monitor",
+        "Price": 138.26,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Harmonport"
+    },
+    {
+        "Date": "2023-01-05",
+        "CustomerId": "13c1fccd-377d-4cf3-affd-737491952054",
+        "ProductName": "Laptop Stand",
+        "Price": 183.16,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Barryberg"
+    },
+    {
+        "Date": "2023-10-05",
+        "CustomerId": "8354dd59-ea53-46ac-81b8-99b9e49f0213",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 110.06,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Desireestad"
+    },
+    {
+        "Date": "2023-06-15",
+        "CustomerId": "56e433d8-7d73-4518-b87c-8516a5927ec1",
+        "ProductName": "Wireless Mouse",
+        "Price": 188.36,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "Desireestad"
+    },
+    {
+        "Date": "2023-12-18",
+        "CustomerId": "4694ba98-cb30-4c9b-8ed7-bf9249c42df8",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 392.64,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Butlermouth"
+    },
+    {
+        "Date": "2023-10-08",
+        "CustomerId": "5749e994-8c3b-486e-8145-9d973fea1294",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 482.63,
+        "Quantity": 4,
+        "Discount": "5%",
+        "Ship to City": "East Susan"
+    },
+    {
+        "Date": "2023-10-28",
+        "CustomerId": "367d8534-3c37-47c2-8287-786670a75ee5",
+        "ProductName": "Smart Watch",
+        "Price": 366.16,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Butlermouth"
+    },
+    {
+        "Date": "2024-01-23",
+        "CustomerId": "07460ada-6725-4823-9d97-bd487c4b5865",
+        "ProductName": "USB-C Cable",
+        "Price": 100.04,
+        "Quantity": 5,
+        "Discount": "10%",
+        "Ship to City": "Jensenborough"
+    },
+    {
+        "Date": "2023-04-06",
+        "CustomerId": "10994054-5e09-46fa-8e79-dc22f82ce9b0",
+        "ProductName": "Gaming Keyboard",
+        "Price": 174.82,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Rochamouth"
+    },
+    {
+        "Date": "2023-02-06",
+        "CustomerId": "0c9bba9b-93e2-4934-8276-1bb44081c5a2",
+        "ProductName": "USB-C Cable",
+        "Price": 153.56,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Newmanbury"
+    },
+    {
+        "Date": "2023-04-15",
+        "CustomerId": "24947156-3bb4-417d-bc9e-3253ba8cc51a",
+        "ProductName": "Portable Charger",
+        "Price": 321.1,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2023-01-14",
+        "CustomerId": "5955f6aa-52be-4bff-866a-3552d89b05f2",
+        "ProductName": "LED Monitor",
+        "Price": 136.61,
+        "Quantity": 3,
+        "Discount": "20%",
+        "Ship to City": "Stevenport"
+    },
+    {
+        "Date": "2023-03-30",
+        "CustomerId": "74ea2e55-3df9-42bb-918d-310eda854b4b",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 97.5,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "Stevenshire"
+    },
+    {
+        "Date": "2023-10-16",
+        "CustomerId": "9baa0dc8-b16a-4b95-88f3-f15143697898",
+        "ProductName": "Smartphone Case",
+        "Price": 405.45,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "East Shannon"
+    },
+    {
+        "Date": "2023-04-22",
+        "CustomerId": "d2717533-5ea5-4e7c-9414-1de0c361d354",
+        "ProductName": "Smart Watch",
+        "Price": 160.84,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Millerchester"
+    },
+    {
+        "Date": "2023-02-06",
+        "CustomerId": "c347ffe5-8342-4560-aaa0-dc8329cb796e",
+        "ProductName": "Gaming Keyboard",
+        "Price": 474.06,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Barryberg"
+    },
+    {
+        "Date": "2023-05-10",
+        "CustomerId": "c900556a-15a0-4abc-9c3b-932dfb4416fb",
+        "ProductName": "LED Monitor",
+        "Price": 236.35,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2023-07-27",
+        "CustomerId": "ce7f716d-bf2b-4589-b340-aa502a5dbf2e",
+        "ProductName": "Smart Watch",
+        "Price": 69.2,
+        "Quantity": 2,
+        "Discount": "20%",
+        "Ship to City": "Butlermouth"
+    },
+    {
+        "Date": "2023-04-19",
+        "CustomerId": "831c294e-bd81-491d-b439-bccfe9e0d64b",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 265.86,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "East Shannon"
+    },
+    {
+        "Date": "2024-01-02",
+        "CustomerId": "e347d122-cd1d-44df-a8e6-012036c8ea1d",
+        "ProductName": "Smartphone Case",
+        "Price": 248.99,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Dalefurt"
+    },
+    {
+        "Date": "2024-05-09",
+        "CustomerId": "3e2fb189-6673-44f3-9cf6-081a222b388a",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 59.89,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "Manuelview"
+    },
+    {
+        "Date": "2023-10-02",
+        "CustomerId": "bac2d8c0-66b1-4f4d-8b6c-53895c466792",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 183.55,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "Desireestad"
+    },
+    {
+        "Date": "2023-05-26",
+        "CustomerId": "df47519e-15a0-4e0b-ba44-05b2b46d9d5f",
+        "ProductName": "Gaming Keyboard",
+        "Price": 210.45,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Floresmouth"
+    },
+    {
+        "Date": "2023-04-24",
+        "CustomerId": "900f0afa-8825-43b5-870c-7fbc48657dbe",
+        "ProductName": "Portable Charger",
+        "Price": 191.56,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Port Corey"
+    },
+    {
+        "Date": "2023-04-22",
+        "CustomerId": "b04e2327-38e1-4fcc-b70b-84e05628f1aa",
+        "ProductName": "LED Monitor",
+        "Price": 436.42,
+        "Quantity": 2,
+        "Discount": "5%",
+        "Ship to City": "South Jonathanhaven"
+    },
+    {
+        "Date": "2023-11-16",
+        "CustomerId": "c8f93ade-254e-4c83-af66-36c434eb099e",
+        "ProductName": "Wireless Mouse",
+        "Price": 251.63,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "East Lisa"
+    },
+    {
+        "Date": "2024-03-05",
+        "CustomerId": "88b13014-6be3-419e-ba7c-80f65b538be6",
+        "ProductName": "Portable Charger",
+        "Price": 417.26,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "Floresmouth"
+    },
+    {
+        "Date": "2023-09-10",
+        "CustomerId": "1491dd81-3d6e-436a-a676-bc64d68081c6",
+        "ProductName": "Laptop Stand",
+        "Price": 414.78,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Lemouth"
+    },
+    {
+        "Date": "2023-12-08",
+        "CustomerId": "e923b863-12f1-4f09-a477-b29c2d5941b7",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 143.3,
+        "Quantity": 2,
+        "Discount": "20%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2024-02-29",
+        "CustomerId": "c89693a4-a1f9-4767-9de2-e961af52001b",
+        "ProductName": "Smart Watch",
+        "Price": 229.61,
+        "Quantity": 2,
+        "Discount": "10%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2024-04-06",
+        "CustomerId": "bc005c00-a22c-4ddd-9346-7190e3c113e1",
+        "ProductName": "Wireless Mouse",
+        "Price": 201.93,
+        "Quantity": 5,
+        "Discount": "20%",
+        "Ship to City": "Lemouth"
+    },
+    {
+        "Date": "2023-11-05",
+        "CustomerId": "d740f27d-425e-495d-ae9b-7137d7c96a28",
+        "ProductName": "Smart Watch",
+        "Price": 322.35,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "North Hannahton"
+    },
+    {
+        "Date": "2023-02-15",
+        "CustomerId": "17271725-fec6-4a38-8d95-9c3758b6b5c6",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 45.55,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Stevenport"
+    },
+    {
+        "Date": "2023-02-25",
+        "CustomerId": "186af9b7-1ccb-4f27-b4f4-1f1f112c7279",
+        "ProductName": "Wireless Mouse",
+        "Price": 242.91,
+        "Quantity": 4,
+        "Discount": "20%",
+        "Ship to City": "Manuelview"
+    },
+    {
+        "Date": "2023-05-07",
+        "CustomerId": "5d8c214b-846b-478c-a3b8-fc85e363e68f",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 208.64,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Newmanbury"
+    },
+    {
+        "Date": "2023-04-08",
+        "CustomerId": "5e549c33-48df-4eb4-907c-f7428368ab5b",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 327.57,
+        "Quantity": 3,
+        "Discount": "20%",
+        "Ship to City": "Rochamouth"
+    },
+    {
+        "Date": "2023-04-16",
+        "CustomerId": "3e656921-9612-455f-aaa4-e3c033e168d6",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 423.54,
+        "Quantity": 4,
+        "Discount": "20%",
+        "Ship to City": "Burgessfort"
+    },
+    {
+        "Date": "2023-03-29",
+        "CustomerId": "549c37a6-f812-4a99-92b0-e897c527ec4c",
+        "ProductName": "Portable Charger",
+        "Price": 295.34,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "East Michellemouth"
+    },
+    {
+        "Date": "2023-06-25",
+        "CustomerId": "74be9f0c-312d-468c-8559-77650a9c8282",
+        "ProductName": "Smartphone Case",
+        "Price": 200.67,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "West Raymondport"
+    },
+    {
+        "Date": "2024-04-11",
+        "CustomerId": "22ac2ad7-113a-4f5b-b4ea-a4319e30f64f",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 257.78,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "South Jonathanhaven"
+    },
+    {
+        "Date": "2023-04-10",
+        "CustomerId": "85a77ded-adf7-4e59-ab78-37b2652c532d",
+        "ProductName": "Gaming Keyboard",
+        "Price": 410.3,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "Lauramouth"
+    },
+    {
+        "Date": "2023-01-27",
+        "CustomerId": "74504b8d-0c14-4c36-9edb-1353af265893",
+        "ProductName": "Smartphone Case",
+        "Price": 285.31,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Beltranfort"
+    },
+    {
+        "Date": "2023-08-23",
+        "CustomerId": "a82b8e96-fe88-4f2e-a1e2-bbe308c9471f",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 435.59,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "North Jaredshire"
+    },
+    {
+        "Date": "2024-01-31",
+        "CustomerId": "1a5620dd-c7cb-48e5-b71b-dc566f05af41",
+        "ProductName": "Gaming Keyboard",
+        "Price": 226.91,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "North John"
+    },
+    {
+        "Date": "2023-07-14",
+        "CustomerId": "f7f7d506-df36-46e7-876e-2654e5c5073b",
+        "ProductName": "Gaming Keyboard",
+        "Price": 63.89,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Rodriguezborough"
+    },
+    {
+        "Date": "2023-04-16",
+        "CustomerId": "4a8dba08-3388-4dcb-b200-b00137622bfc",
+        "ProductName": "Smartphone Case",
+        "Price": 226.0,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "East Michellemouth"
+    },
+    {
+        "Date": "2024-04-04",
+        "CustomerId": "70bdc9ef-edaf-4be2-bb77-09a2a76954c7",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 279.95,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "North Michael"
+    },
+    {
+        "Date": "2023-03-17",
+        "CustomerId": "ee9ed21f-48a1-4691-ab98-a76c5498cb16",
+        "ProductName": "Wireless Mouse",
+        "Price": 64.65,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Desireestad"
+    },
+    {
+        "Date": "2024-05-11",
+        "CustomerId": "5e6eb924-20b3-4a93-b5ca-7c8e2fe69099",
+        "ProductName": "Wireless Mouse",
+        "Price": 129.64,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "East Michellemouth"
+    },
+    {
+        "Date": "2023-03-16",
+        "CustomerId": "6606097e-32d3-49bf-b01e-a85611613f3f",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 448.54,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Manuelview"
+    },
+    {
+        "Date": "2024-01-10",
+        "CustomerId": "a5232a49-9b4f-430e-b2a0-5d007d8a5773",
+        "ProductName": "Wireless Mouse",
+        "Price": 105.06,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Port Corey"
+    },
+    {
+        "Date": "2024-04-18",
+        "CustomerId": "44d552d0-c222-442d-82c0-665c1fdfa8ad",
+        "ProductName": "USB-C Cable",
+        "Price": 253.36,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Port Loretta"
+    },
+    {
+        "Date": "2023-07-05",
+        "CustomerId": "6742979b-00c2-4e91-b226-379a37144c5e",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 202.7,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "North Robert"
+    },
+    {
+        "Date": "2023-06-10",
+        "CustomerId": "4d48d2a6-be14-49a5-b0f2-955e9ee326d8",
+        "ProductName": "Laptop Stand",
+        "Price": 271.7,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "North Jaredshire"
+    },
+    {
+        "Date": "2023-03-24",
+        "CustomerId": "a4dd5746-6523-49af-91a1-f9d427de76ab",
+        "ProductName": "Laptop Stand",
+        "Price": 365.78,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "Burgessfort"
+    },
+    {
+        "Date": "2024-04-11",
+        "CustomerId": "47b94774-1ccc-43fc-9395-f819f234ea88",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 222.34,
+        "Quantity": 2,
+        "Discount": "10%",
+        "Ship to City": "Smithshire"
+    },
+    {
+        "Date": "2023-12-08",
+        "CustomerId": "fb6ab08e-7dd2-4cdc-8f6b-13f354b203d3",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 210.22,
+        "Quantity": 3,
+        "Discount": "20%",
+        "Ship to City": "Floresmouth"
+    },
+    {
+        "Date": "2023-11-01",
+        "CustomerId": "55666b9a-dffe-4e49-8867-563d6eb49c47",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 341.38,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "North Robert"
+    },
+    {
+        "Date": "2023-01-03",
+        "CustomerId": "5e8d4e18-bdfc-4fc2-bbb1-8921b3382565",
+        "ProductName": "Portable Charger",
+        "Price": 250.69,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "Lanefurt"
+    },
+    {
+        "Date": "2023-08-27",
+        "CustomerId": "7fd765b1-2e46-40b1-8200-5d9d33f08cc9",
+        "ProductName": "Wireless Mouse",
+        "Price": 305.94,
+        "Quantity": 2,
+        "Discount": "20%",
+        "Ship to City": "Adamfort"
+    },
+    {
+        "Date": "2024-04-29",
+        "CustomerId": "375b7bd0-6280-42b7-b1cb-3a52a490c0d3",
+        "ProductName": "Wireless Mouse",
+        "Price": 227.49,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "Lanefurt"
+    },
+    {
+        "Date": "2024-05-01",
+        "CustomerId": "d5ac309a-2585-46e2-b65d-04a92a8652b5",
+        "ProductName": "Portable Charger",
+        "Price": 145.09,
+        "Quantity": 4,
+        "Discount": "20%",
+        "Ship to City": "East Susan"
+    },
+    {
+        "Date": "2023-11-21",
+        "CustomerId": "299dd176-5b8a-4d75-b982-e4b58cee6fd6",
+        "ProductName": "USB-C Cable",
+        "Price": 167.45,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Beltranfort"
+    },
+    {
+        "Date": "2023-09-24",
+        "CustomerId": "cce2a065-67d9-41e5-a829-88e4ff16e46c",
+        "ProductName": "Smartphone Case",
+        "Price": 95.39,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Lauramouth"
+    },
+    {
+        "Date": "2023-06-10",
+        "CustomerId": "381a1395-1c18-4ffb-bfa4-e4ee60601320",
+        "ProductName": "LED Monitor",
+        "Price": 408.22,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "Manuelview"
+    },
+    {
+        "Date": "2023-01-02",
+        "CustomerId": "7f4cfd92-45f7-454f-9f7c-1d5a9c6bea44",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 321.99,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "South Jonathanhaven"
+    },
+    {
+        "Date": "2023-07-15",
+        "CustomerId": "f2ebf099-0d9f-44ae-9dec-49f0cdaa0614",
+        "ProductName": "LED Monitor",
+        "Price": 368.4,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2023-03-12",
+        "CustomerId": "0f8034ad-90ff-42a5-9e3e-c890f0305ce5",
+        "ProductName": "LED Monitor",
+        "Price": 76.04,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "East David"
+    },
+    {
+        "Date": "2023-11-12",
+        "CustomerId": "b8b396fe-c7a0-42f3-aff6-031297473ced",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 84.82,
+        "Quantity": 2,
+        "Discount": "10%",
+        "Ship to City": "Lemouth"
+    },
+    {
+        "Date": "2023-09-02",
+        "CustomerId": "feb7e623-7bf7-4cb0-b996-bf969739205b",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 234.88,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Rodriguezborough"
+    },
+    {
+        "Date": "2023-01-17",
+        "CustomerId": "4ce7cbe8-e3ac-4f56-850d-a2b10f678eb6",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 490.02,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "South Dana"
+    },
+    {
+        "Date": "2023-08-03",
+        "CustomerId": "955a2856-a474-428f-a4d7-db454ae5db7b",
+        "ProductName": "Wireless Mouse",
+        "Price": 335.19,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "Lanefurt"
+    },
+    {
+        "Date": "2023-01-12",
+        "CustomerId": "a28a2b79-6a97-4483-a8b9-10e86ae837ff",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 205.9,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "West Nicoleburgh"
+    },
+    {
+        "Date": "2024-04-30",
+        "CustomerId": "d0481c1b-eeff-42ad-aa97-494a38b5f442",
+        "ProductName": "Smartphone Case",
+        "Price": 207.93,
+        "Quantity": 2,
+        "Discount": "10%",
+        "Ship to City": "North John"
+    },
+    {
+        "Date": "2023-05-03",
+        "CustomerId": "e15ceb8a-9131-47b2-95c6-10d319537b2e",
+        "ProductName": "USB-C Cable",
+        "Price": 297.74,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "North Jaredshire"
+    },
+    {
+        "Date": "2023-09-10",
+        "CustomerId": "3a434af0-e992-4d13-b9ab-20a7ac334606",
+        "ProductName": "Portable Charger",
+        "Price": 429.23,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "Port Corey"
+    },
+    {
+        "Date": "2024-05-12",
+        "CustomerId": "9747b55d-03f9-4025-92e5-305e379a43ba",
+        "ProductName": "Portable Charger",
+        "Price": 282.22,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Jensenborough"
+    },
+    {
+        "Date": "2024-01-07",
+        "CustomerId": "15b15dc7-db90-42ce-ba9c-fb3a9e03b11c",
+        "ProductName": "Laptop Stand",
+        "Price": 441.86,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "East Susan"
+    },
+    {
+        "Date": "2023-10-19",
+        "CustomerId": "e85005d2-40f0-4512-99d3-2b5eb5b38b0a",
+        "ProductName": "Gaming Keyboard",
+        "Price": 32.15,
+        "Quantity": 4,
+        "Discount": "5%",
+        "Ship to City": "Melissaburgh"
+    },
+    {
+        "Date": "2024-02-27",
+        "CustomerId": "e3e79a2e-ee74-4e9b-9f61-4cf463ea490d",
+        "ProductName": "Wireless Mouse",
+        "Price": 74.64,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "East David"
+    },
+    {
+        "Date": "2023-09-11",
+        "CustomerId": "cd17cd8e-6ffa-4dbb-96f3-491de38ebee9",
+        "ProductName": "Smartphone Case",
+        "Price": 160.47,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Beltranfort"
+    },
+    {
+        "Date": "2023-09-08",
+        "CustomerId": "35d08e36-ef95-4b70-9c71-ac15af823f80",
+        "ProductName": "USB-C Cable",
+        "Price": 288.63,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "Smithshire"
+    },
+    {
+        "Date": "2023-09-19",
+        "CustomerId": "4896d327-eeff-4cbf-bc78-72f986232a84",
+        "ProductName": "Smart Watch",
+        "Price": 193.48,
+        "Quantity": 5,
+        "Discount": "20%",
+        "Ship to City": "West Raymondport"
+    },
+    {
+        "Date": "2023-02-02",
+        "CustomerId": "39814dac-0e98-4830-9d8f-a22e36aab210",
+        "ProductName": "USB-C Cable",
+        "Price": 491.68,
+        "Quantity": 5,
+        "Discount": "10%",
+        "Ship to City": "Manuelview"
+    },
+    {
+        "Date": "2023-09-20",
+        "CustomerId": "efdb400c-e9cb-4917-a6f3-62b891d33b19",
+        "ProductName": "LED Monitor",
+        "Price": 21.85,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2023-11-20",
+        "CustomerId": "83774d08-f602-4cdb-9471-37d927f48979",
+        "ProductName": "Smart Watch",
+        "Price": 472.58,
+        "Quantity": 4,
+        "Discount": "5%",
+        "Ship to City": "Ericaside"
+    },
+    {
+        "Date": "2023-10-20",
+        "CustomerId": "abd0cb52-c7a3-49e5-a249-a94090c4c7ab",
+        "ProductName": "Gaming Keyboard",
+        "Price": 171.96,
+        "Quantity": 4,
+        "Discount": "5%",
+        "Ship to City": "Ericaside"
+    },
+    {
+        "Date": "2023-04-21",
+        "CustomerId": "5c2cfe6b-a17c-43ea-b2f6-7f9ed39f0512",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 83.02,
+        "Quantity": 2,
+        "Discount": "20%",
+        "Ship to City": "East Shannon"
+    },
+    {
+        "Date": "2024-01-29",
+        "CustomerId": "60256214-3049-46bf-8fb5-06548b61aa32",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 185.34,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "North Nicoletown"
+    },
+    {
+        "Date": "2023-04-05",
+        "CustomerId": "09ea1d87-b087-4fb4-9b5e-9824fc90c256",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 422.84,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Lauramouth"
+    },
+    {
+        "Date": "2023-07-23",
+        "CustomerId": "f8058b2c-b2fc-4eed-8fde-83c4ad650aa7",
+        "ProductName": "LED Monitor",
+        "Price": 408.71,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2023-04-21",
+        "CustomerId": "d723722f-0cca-48ce-91a8-efbc7a4355e9",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 369.53,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Desireestad"
+    },
+    {
+        "Date": "2024-01-02",
+        "CustomerId": "e77073ed-0fd6-4d18-8071-167d39ea4114",
+        "ProductName": "USB-C Cable",
+        "Price": 266.53,
+        "Quantity": 2,
+        "Discount": "20%",
+        "Ship to City": "Lemouth"
+    },
+    {
+        "Date": "2023-01-23",
+        "CustomerId": "45572d38-2a51-4ae6-83cb-0dba94b28aa2",
+        "ProductName": "Laptop Stand",
+        "Price": 445.61,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "North Jaredshire"
+    },
+    {
+        "Date": "2023-08-18",
+        "CustomerId": "3a714484-81ac-40a0-a323-fda11824d3d8",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 287.0,
+        "Quantity": 2,
+        "Discount": "5%",
+        "Ship to City": "South Dana"
+    },
+    {
+        "Date": "2023-04-04",
+        "CustomerId": "3fc7abfd-4e73-431b-b605-9c3b46a47bf7",
+        "ProductName": "Gaming Keyboard",
+        "Price": 417.4,
+        "Quantity": 3,
+        "Discount": "20%",
+        "Ship to City": "Lauramouth"
+    },
+    {
+        "Date": "2023-09-07",
+        "CustomerId": "dd2758b4-82a6-4c60-9d2b-627b8f4db9da",
+        "ProductName": "Portable Charger",
+        "Price": 396.13,
+        "Quantity": 5,
+        "Discount": "20%",
+        "Ship to City": "Harrischester"
+    },
+    {
+        "Date": "2023-06-29",
+        "CustomerId": "56484ea6-ac09-443b-8505-19ff74d1f7bb",
+        "ProductName": "Wireless Mouse",
+        "Price": 176.0,
+        "Quantity": 1,
+        "Discount": "10%",
+        "Ship to City": "Barryberg"
+    },
+    {
+        "Date": "2024-02-02",
+        "CustomerId": "d48f548f-ce0d-4cca-b7b0-1eb00ab175c0",
+        "ProductName": "USB-C Cable",
+        "Price": 395.16,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "Butlermouth"
+    },
+    {
+        "Date": "2023-09-03",
+        "CustomerId": "6e3b5547-e79f-40c1-9652-e3ab6778137c",
+        "ProductName": "LED Monitor",
+        "Price": 431.55,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "North Jaredshire"
+    },
+    {
+        "Date": "2023-04-29",
+        "CustomerId": "6201c78e-42e5-468a-9c8a-68097d1c44c5",
+        "ProductName": "Gaming Keyboard",
+        "Price": 88.85,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "North Jaredshire"
+    },
+    {
+        "Date": "2023-04-27",
+        "CustomerId": "3a55d4ba-f80b-449e-b43f-9bc3d1c2da58",
+        "ProductName": "Laptop Stand",
+        "Price": 292.37,
+        "Quantity": 4,
+        "Discount": "5%",
+        "Ship to City": "Harmonport"
+    },
+    {
+        "Date": "2024-01-17",
+        "CustomerId": "803fc9d4-5f32-433c-b35d-040f843bb28e",
+        "ProductName": "Smartphone Case",
+        "Price": 198.09,
+        "Quantity": 4,
+        "Discount": "20%",
+        "Ship to City": "Rochamouth"
+    },
+    {
+        "Date": "2023-02-26",
+        "CustomerId": "5de0d72b-21b0-41b6-a746-0d7b8da7596b",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 336.35,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "East Michellemouth"
+    },
+    {
+        "Date": "2023-02-07",
+        "CustomerId": "df62e3a4-6ecb-4932-bd03-32be80aba74a",
+        "ProductName": "Laptop Stand",
+        "Price": 119.95,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "East Jason"
+    },
+    {
+        "Date": "2023-09-30",
+        "CustomerId": "18d9671f-dba1-43f0-af05-cef87e3fb574",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 194.65,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "North John"
+    },
+    {
+        "Date": "2024-05-10",
+        "CustomerId": "e1fb62e6-25a4-4733-8a16-66623cc19d57",
+        "ProductName": "Wireless Mouse",
+        "Price": 410.29,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Beltranfort"
+    },
+    {
+        "Date": "2023-03-02",
+        "CustomerId": "c1874c0e-1436-4765-b993-49803fea490b",
+        "ProductName": "Gaming Keyboard",
+        "Price": 469.68,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Beltranfort"
+    },
+    {
+        "Date": "2023-02-22",
+        "CustomerId": "90439f5f-000f-43d7-87dd-346b1e584b35",
+        "ProductName": "Portable Charger",
+        "Price": 499.92,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "Melissaburgh"
+    },
+    {
+        "Date": "2023-03-03",
+        "CustomerId": "86a140d0-2c4f-420e-b5d3-938c0f1b7654",
+        "ProductName": "Gaming Keyboard",
+        "Price": 135.78,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Millerchester"
+    },
+    {
+        "Date": "2023-06-01",
+        "CustomerId": "ab356787-85c8-4866-8326-d9b215853325",
+        "ProductName": "LED Monitor",
+        "Price": 43.84,
+        "Quantity": 4,
+        "Discount": "5%",
+        "Ship to City": "Melissaburgh"
+    },
+    {
+        "Date": "2024-02-26",
+        "CustomerId": "7f2549de-10be-41c6-bbbe-3d99d4fd84e5",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 36.55,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2023-07-21",
+        "CustomerId": "a5fa8f5d-7bff-45a5-b292-f045bd63ade6",
+        "ProductName": "Gaming Keyboard",
+        "Price": 10.81,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Foxland"
+    },
+    {
+        "Date": "2024-04-10",
+        "CustomerId": "1eba4708-7835-4ff9-994c-e1e8549e3738",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 277.97,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "Lanefurt"
+    },
+    {
+        "Date": "2023-05-09",
+        "CustomerId": "44ac0f3a-22b9-42f3-aac6-4e34da553eb0",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 78.57,
+        "Quantity": 5,
+        "Discount": "20%",
+        "Ship to City": "Floresmouth"
+    },
+    {
+        "Date": "2023-07-08",
+        "CustomerId": "25c62d9d-5f4a-4b21-9d81-8573d034330f",
+        "ProductName": "Gaming Keyboard",
+        "Price": 188.69,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "South Jonathanhaven"
+    },
+    {
+        "Date": "2023-06-28",
+        "CustomerId": "9ddd2a27-038a-45c4-ab28-d9c131d63e58",
+        "ProductName": "LED Monitor",
+        "Price": 177.33,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "New Melissa"
+    },
+    {
+        "Date": "2023-05-15",
+        "CustomerId": "821ed033-c2e7-478d-b940-2aa22ebff61f",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 71.33,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "East Debrahaven"
+    },
+    {
+        "Date": "2023-07-05",
+        "CustomerId": "731e5b5b-1a82-4fb3-b425-87cb9d3bc0dc",
+        "ProductName": "Laptop Stand",
+        "Price": 289.3,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "West Raymondport"
+    },
+    {
+        "Date": "2023-03-21",
+        "CustomerId": "64f386e6-9150-4f55-9502-52118a9af78c",
+        "ProductName": "Portable Charger",
+        "Price": 143.95,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Desireestad"
+    },
+    {
+        "Date": "2023-03-14",
+        "CustomerId": "56ebc92b-b2eb-4ddf-a67c-00fdc53f8163",
+        "ProductName": "Wireless Mouse",
+        "Price": 367.26,
+        "Quantity": 4,
+        "Discount": "20%",
+        "Ship to City": "Danielbury"
+    },
+    {
+        "Date": "2023-06-16",
+        "CustomerId": "2f2ff3fc-286f-44d3-b13a-590dbb87654f",
+        "ProductName": "Smartphone Case",
+        "Price": 36.18,
+        "Quantity": 5,
+        "Discount": "10%",
+        "Ship to City": "Rochamouth"
+    },
+    {
+        "Date": "2023-12-31",
+        "CustomerId": "8430b94b-2d40-444e-8b1d-612dc1b71f86",
+        "ProductName": "Laptop Stand",
+        "Price": 325.25,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Lanefurt"
+    },
+    {
+        "Date": "2024-03-29",
+        "CustomerId": "4db5d2ee-0ada-41ec-8401-c5054cb51128",
+        "ProductName": "Laptop Stand",
+        "Price": 435.53,
+        "Quantity": 3,
+        "Discount": "5%",
+        "Ship to City": "Rodriguezborough"
+    },
+    {
+        "Date": "2023-02-15",
+        "CustomerId": "5aa209c7-2a31-4978-86c2-66a4827eb1b2",
+        "ProductName": "Smart Watch",
+        "Price": 243.97,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "West Nicoleburgh"
+    },
+    {
+        "Date": "2023-11-23",
+        "CustomerId": "7b63c170-faac-4b1d-b57d-949e6251cc71",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 49.23,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "West Raymondport"
+    },
+    {
+        "Date": "2023-08-30",
+        "CustomerId": "fdb33f70-8608-4252-b6b3-39256303457e",
+        "ProductName": "LED Monitor",
+        "Price": 435.29,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "North Michael"
+    },
+    {
+        "Date": "2024-03-05",
+        "CustomerId": "19a1116d-d857-4bd9-85c6-123464540b59",
+        "ProductName": "USB-C Cable",
+        "Price": 331.97,
+        "Quantity": 2,
+        "Discount": "5%",
+        "Ship to City": "Butlermouth"
+    },
+    {
+        "Date": "2023-11-05",
+        "CustomerId": "48fac919-f47b-41aa-9a31-7e41d9ce3b1b",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 31.03,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "North Hannahton"
+    },
+    {
+        "Date": "2024-04-22",
+        "CustomerId": "56805769-0bfe-4f16-8408-45c7f48a6bbc",
+        "ProductName": "Wireless Mouse",
+        "Price": 226.09,
+        "Quantity": 2,
+        "Discount": "10%",
+        "Ship to City": "Manuelview"
+    },
+    {
+        "Date": "2023-12-30",
+        "CustomerId": "cd64ee34-8ef7-4be1-ac7c-8ce1f0fe9330",
+        "ProductName": "Laptop Stand",
+        "Price": 193.57,
+        "Quantity": 1,
+        "Discount": "20%",
+        "Ship to City": "West Nicoleburgh"
+    },
+    {
+        "Date": "2024-05-05",
+        "CustomerId": "3fc33c42-7a28-4bfb-98b3-bd2dadf6662f",
+        "ProductName": "Smart Watch",
+        "Price": 227.02,
+        "Quantity": 1,
+        "Discount": "10%",
+        "Ship to City": "Newmanbury"
+    },
+    {
+        "Date": "2023-09-19",
+        "CustomerId": "27c2ea89-f778-45ee-98cf-04a49d51a093",
+        "ProductName": "Wireless Mouse",
+        "Price": 476.31,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2023-11-03",
+        "CustomerId": "f667d2bd-579f-4261-bfc8-96edd07848de",
+        "ProductName": "Portable Charger",
+        "Price": 355.22,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Harmonport"
+    },
+    {
+        "Date": "2023-12-31",
+        "CustomerId": "a0e2850f-4c0a-49dd-94fc-b0ff0e0532ee",
+        "ProductName": "Smartphone Case",
+        "Price": 414.05,
+        "Quantity": 1,
+        "Discount": "10%",
+        "Ship to City": "Dalefurt"
+    },
+    {
+        "Date": "2023-09-19",
+        "CustomerId": "0333dcbd-1630-4940-bb3a-b7b8b1041d48",
+        "ProductName": "Gaming Keyboard",
+        "Price": 142.89,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Danielbury"
+    },
+    {
+        "Date": "2024-01-19",
+        "CustomerId": "83a24036-ddd3-4f75-ad18-8f08d58a8780",
+        "ProductName": "Gaming Keyboard",
+        "Price": 102.84,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Port Corey"
+    },
+    {
+        "Date": "2023-12-06",
+        "CustomerId": "9e389717-182c-447a-9633-fe27d2253b56",
+        "ProductName": "Smartphone Case",
+        "Price": 302.49,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Butlermouth"
+    },
+    {
+        "Date": "2024-04-02",
+        "CustomerId": "32d116ff-e622-437c-8504-64ee1974d9cc",
+        "ProductName": "Wireless Mouse",
+        "Price": 169.84,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Beltranfort"
+    },
+    {
+        "Date": "2023-11-28",
+        "CustomerId": "7f88d2d0-5153-4eff-91bc-68cd9ac74752",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 123.74,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "Burgessfort"
+    },
+    {
+        "Date": "2023-07-25",
+        "CustomerId": "86e72bb6-8655-4bc5-a1ee-7cc3ee0672ad",
+        "ProductName": "Gaming Keyboard",
+        "Price": 55.43,
+        "Quantity": 5,
+        "Discount": "5%",
+        "Ship to City": "North Robert"
+    },
+    {
+        "Date": "2024-01-03",
+        "CustomerId": "ec097399-7311-43d5-a4b7-85781d364dbb",
+        "ProductName": "Smart Watch",
+        "Price": 147.47,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Barryberg"
+    },
+    {
+        "Date": "2023-01-06",
+        "CustomerId": "c1fa5b83-d219-40b9-9d4a-c3fef686f41e",
+        "ProductName": "Laptop Stand",
+        "Price": 389.28,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Harmonport"
+    },
+    {
+        "Date": "2023-01-14",
+        "CustomerId": "feeab061-f224-41f3-b441-dac83338f54f",
+        "ProductName": "Laptop Stand",
+        "Price": 295.43,
+        "Quantity": 5,
+        "Discount": "0%",
+        "Ship to City": "East David"
+    },
+    {
+        "Date": "2023-05-16",
+        "CustomerId": "8a82bb3a-c3ae-4585-8e5f-26f4028cb4ab",
+        "ProductName": "Laptop Stand",
+        "Price": 211.29,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "New Jane"
+    },
+    {
+        "Date": "2023-02-04",
+        "CustomerId": "9fb1213b-09cc-4cb7-9376-3db67bf930e0",
+        "ProductName": "Laptop Stand",
+        "Price": 233.63,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "West Raymondport"
+    },
+    {
+        "Date": "2023-07-14",
+        "CustomerId": "b9ff2acb-60c7-48fb-a386-0b32cb4a64a5",
+        "ProductName": "Gaming Keyboard",
+        "Price": 205.28,
+        "Quantity": 3,
+        "Discount": "10%",
+        "Ship to City": "Barryberg"
+    },
+    {
+        "Date": "2023-06-26",
+        "CustomerId": "de4b3150-68c4-4cd8-977d-8abf27480294",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 208.41,
+        "Quantity": 2,
+        "Discount": "10%",
+        "Ship to City": "Smithshire"
+    },
+    {
+        "Date": "2024-03-01",
+        "CustomerId": "50bf7d58-9377-42b3-bd29-53a78a95466b",
+        "ProductName": "Smart Watch",
+        "Price": 357.71,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "North Nicoletown"
+    },
+    {
+        "Date": "2023-09-30",
+        "CustomerId": "9670d73e-8bb3-4476-af4d-cb7f8bef71d9",
+        "ProductName": "USB-C Cable",
+        "Price": 183.71,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Stevenport"
+    },
+    {
+        "Date": "2023-09-13",
+        "CustomerId": "6dc140bf-deaf-404a-a8ab-fe75c0a804d8",
+        "ProductName": "Smartphone Case",
+        "Price": 297.01,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "New Jane"
+    },
+    {
+        "Date": "2023-09-03",
+        "CustomerId": "68b0e397-e7ca-4e75-88f2-8892c0499f29",
+        "ProductName": "LED Monitor",
+        "Price": 201.77,
+        "Quantity": 5,
+        "Discount": "20%",
+        "Ship to City": "North Kevin"
+    },
+    {
+        "Date": "2023-07-10",
+        "CustomerId": "40ec3d4f-e37e-4e47-ba65-a5f25cda506f",
+        "ProductName": "Laptop Stand",
+        "Price": 99.73,
+        "Quantity": 4,
+        "Discount": "5%",
+        "Ship to City": "Harmonport"
+    },
+    {
+        "Date": "2023-02-12",
+        "CustomerId": "e26df59c-3a05-42d3-af11-3d86d5346e07",
+        "ProductName": "Smartphone Case",
+        "Price": 396.66,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Rochamouth"
+    },
+    {
+        "Date": "2023-05-24",
+        "CustomerId": "7ea165fd-0493-4376-91a1-4e37a95794f4",
+        "ProductName": "Smartphone Case",
+        "Price": 10.4,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "South Dana"
+    },
+    {
+        "Date": "2023-05-19",
+        "CustomerId": "c36e8f4c-d642-42ce-9641-18a39d777cc1",
+        "ProductName": "USB-C Cable",
+        "Price": 338.67,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "North Beth"
+    },
+    {
+        "Date": "2023-05-04",
+        "CustomerId": "4a5d3204-c892-421d-a782-91c1c51b1c9b",
+        "ProductName": "Gaming Keyboard",
+        "Price": 269.83,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Adamfort"
+    },
+    {
+        "Date": "2023-06-14",
+        "CustomerId": "3195e79e-9b59-4dcf-9fed-4d175606f62f",
+        "ProductName": "Laptop Stand",
+        "Price": 479.14,
+        "Quantity": 2,
+        "Discount": "20%",
+        "Ship to City": "East Jason"
+    },
+    {
+        "Date": "2023-03-22",
+        "CustomerId": "7243ed82-3e63-4f38-83bc-986fdb3b4460",
+        "ProductName": "USB-C Cable",
+        "Price": 114.77,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "Millerchester"
+    },
+    {
+        "Date": "2024-01-06",
+        "CustomerId": "4667341f-fc55-4dbe-b628-1558aec6c3e4",
+        "ProductName": "Smartphone Case",
+        "Price": 275.47,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Smithshire"
+    },
+    {
+        "Date": "2023-12-05",
+        "CustomerId": "a595f932-5395-4c68-9b67-cde8864907a2",
+        "ProductName": "Noise Cancelling Earbuds",
+        "Price": 434.77,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "North Nicoletown"
+    },
+    {
+        "Date": "2023-10-29",
+        "CustomerId": "b452c2c0-31b5-47b2-b5e3-5f01e9656d8d",
+        "ProductName": "Gaming Keyboard",
+        "Price": 110.61,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "Lauramouth"
+    },
+    {
+        "Date": "2023-09-08",
+        "CustomerId": "a8296616-86a5-4c15-a6e6-7c4f3822abdb",
+        "ProductName": "Portable Charger",
+        "Price": 143.77,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "New Jane"
+    },
+    {
+        "Date": "2023-02-13",
+        "CustomerId": "e3a05904-2915-40d1-98f1-2d5a2f6e836a",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 348.3,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "East Debrahaven"
+    },
+    {
+        "Date": "2023-04-09",
+        "CustomerId": "62cf0b18-579f-4731-901e-0ad33c370f7e",
+        "ProductName": "Bluetooth Headphones",
+        "Price": 308.16,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "East David"
+    },
+    {
+        "Date": "2023-09-26",
+        "CustomerId": "07dc98b0-101e-4b9f-95d2-9c0f6beba7fb",
+        "ProductName": "LED Monitor",
+        "Price": 232.44,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "New Jane"
+    },
+    {
+        "Date": "2024-04-17",
+        "CustomerId": "b1ea239d-82a5-4128-878b-cb37bd84076a",
+        "ProductName": "Smartphone Case",
+        "Price": 470.25,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "South Michealland"
+    },
+    {
+        "Date": "2023-04-14",
+        "CustomerId": "d8dd4198-a95d-4feb-baa6-115c4dabd075",
+        "ProductName": "Smart Watch",
+        "Price": 254.28,
+        "Quantity": 3,
+        "Discount": "0%",
+        "Ship to City": "North Jaredshire"
+    },
+    {
+        "Date": "2023-10-07",
+        "CustomerId": "1b8520fe-3289-4ac2-af69-21912ffe2e36",
+        "ProductName": "USB-C Cable",
+        "Price": 278.98,
+        "Quantity": 1,
+        "Discount": "5%",
+        "Ship to City": "Manuelview"
+    },
+    {
+        "Date": "2023-12-05",
+        "CustomerId": "082fb0d2-3f7a-41a5-be14-a3b11f427bc7",
+        "ProductName": "LED Monitor",
+        "Price": 51.99,
+        "Quantity": 4,
+        "Discount": "10%",
+        "Ship to City": "Harmonport"
+    },
+    {
+        "Date": "2023-05-05",
+        "CustomerId": "1bba270c-ba6c-4263-9dd7-7a6253f22b3c",
+        "ProductName": "USB-C Cable",
+        "Price": 422.12,
+        "Quantity": 5,
+        "Discount": "10%",
+        "Ship to City": "Port Corey"
+    },
+    {
+        "Date": "2023-02-05",
+        "CustomerId": "72dc0720-45b0-45e7-81a4-acecba61e481",
+        "ProductName": "Portable Charger",
+        "Price": 286.43,
+        "Quantity": 1,
+        "Discount": "0%",
+        "Ship to City": "Dalefurt"
+    },
+    {
+        "Date": "2023-09-15",
+        "CustomerId": "f6634c60-fe1e-407e-b495-cb3c27fb8c75",
+        "ProductName": "USB-C Cable",
+        "Price": 445.32,
+        "Quantity": 2,
+        "Discount": "0%",
+        "Ship to City": "Stevenshire"
+    },
+    {
+        "Date": "2023-12-17",
+        "CustomerId": "69b6684d-a10e-48ea-93c5-d4369c98bf6d",
+        "ProductName": "LED Monitor",
+        "Price": 494.13,
+        "Quantity": 4,
+        "Discount": "0%",
+        "Ship to City": "South Michealland"
+    }
+]
