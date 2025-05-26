@@ -1,0 +1,501 @@
+date,customer_id,product,price,quantity,coupon_code,shipping_city
+2023-05-15,fc1fd698-529d-4978-8196-2a4177424066,Noise Cancelling Earbuds,138.52,5,FREESHIP,Rochamouth
+2024-04-22,8fa43fff-c1cf-4744-9de9-2df45832a513,Laptop Stand,115.27,4,SAVE10,East David
+2024-01-15,11155053-7973-48a4-9fd0-56546744e9e1,Portable Charger,476.25,1,SAVE10,South Michealland
+2023-06-12,32aaf677-3403-4230-97ad-651ec2b74d24,Gaming Keyboard,24.79,1,FREESHIP,Harmonport
+2023-01-11,d08ded6e-d60f-44e5-9d88-7db65d774c60,LED Monitor,254.36,3,,North Beth
+2023-01-30,6c542687-32e8-4994-97e0-ab919e6cfab7,Laptop Stand,35.47,5,,South Jonathanhaven
+2024-04-11,925c10b3-43f2-46b5-a028-7eb55f612ab5,Gaming Keyboard,236.86,1,SPRING20,South Dana
+2023-02-02,105293c0-ad92-4905-b50b-2ce3034a99c5,Wireless Mouse,81.9,4,SAVE10,East Susan
+2023-06-09,8c66c4f5-791f-4326-8188-3b0910867cac,Smartphone Case,350.42,2,,East David
+2024-03-24,f051750a-b0a4-44eb-8271-a64da030c163,Gaming Keyboard,184.38,1,,South Jonathanhaven
+2024-01-31,8e6711d6-4dc9-4fe5-b80a-2ef903ccbc27,Noise Cancelling Earbuds,133.23,5,,South Jonathanhaven
+2024-02-15,c55c9f86-e916-4bfa-a327-ee56d741244d,Smart Watch,328.81,5,SAVE10,Ericaside
+2024-05-03,937bb58b-1185-423e-93ad-d8b207b4460f,Laptop Stand,60.16,4,,West Raymondport
+2023-06-03,1a5c710c-fc22-4446-89b2-609a75934933,Noise Cancelling Earbuds,204.85,1,WELCOME,Smithshire
+2023-07-20,1add741b-9771-40d1-adeb-8d3869de1dae,Bluetooth Headphones,85.03,1,SPRING20,North John
+2024-04-29,744696fb-82c0-4b3c-b456-ef6e3c162d8e,Smartphone Case,336.31,1,SAVE10,East Debrahaven
+2023-04-08,d79d5e23-fbd4-48ea-b2c3-e7b690fa6896,Smartphone Case,130.27,3,FREESHIP,Beltranfort
+2024-05-07,5cb7eee7-2324-4304-9ea1-d451bb3d11e5,USB-C Cable,138.25,5,,Danielbury
+2023-11-21,b2500168-48d5-44e7-8d48-1a06f65cfa80,Noise Cancelling Earbuds,209.7,3,,West Raymondport
+2023-03-25,219a4532-bbc1-475a-ac31-b14d6b732566,Smartphone Case,486.63,2,,South Dana
+2023-12-16,b5ee0e43-7be9-497d-b54f-7302771ccb76,LED Monitor,475.66,2,,Barryberg
+2024-02-23,433a12c3-b81a-48be-b856-dc16b3d95c34,Laptop Stand,163.99,5,,North Nicoletown
+2023-07-06,0560b61b-d5ba-4d42-8f54-77f93f909eb6,USB-C Cable,415.14,2,FREESHIP,Port Corey
+2024-03-07,04597d8a-94f8-497a-9d33-6398eaaf3851,Bluetooth Headphones,377.07,5,,East Jason
+2023-08-20,35163236-0adf-4727-833a-3c49d9af09d3,LED Monitor,428.23,5,,New Jane
+2024-04-05,d976ddbc-2588-432f-8dbb-4cb094d23c6d,LED Monitor,71.1,5,WELCOME,South Michealland
+2024-02-25,39d8b826-2ed5-432f-b945-6584fab1414c,Noise Cancelling Earbuds,483.43,5,,Rochamouth
+2023-10-19,21796640-46b3-4571-b8c8-26eed92f80d0,Portable Charger,473.24,1,WELCOME,New Jane
+2023-08-06,ef175231-0535-42e8-8da4-27b81f9717df,Noise Cancelling Earbuds,218.65,4,SPRING20,Port Corey
+2023-08-21,8bed3248-5231-4249-a03a-7bd90cd3aa2a,Smartphone Case,293.42,3,SPRING20,East Jason
+2023-07-31,56f0b180-338a-461b-b209-25e28fa9568b,Noise Cancelling Earbuds,26.94,1,,North Jaredshire
+2023-05-09,668909ac-b56d-4b4f-a49a-c4d6d385f74a,Portable Charger,215.1,1,SAVE10,Barryberg
+2024-03-19,988f1fff-581e-49a5-9dfc-cf459388b145,LED Monitor,331.74,3,,Stevenport
+2023-09-15,e6e26ed4-a85c-4c8f-82b4-6beff2530954,Bluetooth Headphones,380.74,5,WELCOME,New Melissa
+2023-09-21,6ead2941-68b5-41b2-9f85-8df68fd96513,Wireless Mouse,171.06,1,WELCOME,North Beth
+2024-01-01,49176b24-70cb-42ec-890b-842f97d57aef,Smart Watch,437.17,5,SPRING20,Desireestad
+2024-04-08,a225fca6-5d1a-41f3-b9b0-af0481ab6f9a,Wireless Mouse,389.01,4,,Harrischester
+2023-04-04,8b4a3439-79a0-4b52-baa0-88b5b6e6dc2c,Laptop Stand,72.2,2,,Stevenport
+2023-01-17,8f733a3f-a121-4446-8dda-49ba5d00b845,USB-C Cable,154.71,2,,East Shannon
+2023-03-03,24628331-4316-4eac-8853-ba2c194b6baa,Smartphone Case,412.9,5,SPRING20,Rodriguezborough
+2024-04-02,e1570bf5-1f5b-4f43-a438-5c756a78ea07,Noise Cancelling Earbuds,469.33,1,WELCOME,East David
+2024-04-27,d5246938-eab8-4ec8-8c9b-d3e9ea934f17,Smart Watch,80.68,3,WELCOME,East Debrahaven
+2023-08-30,3a12876b-0a0a-40a0-aae6-2ec5033b9e6a,Noise Cancelling Earbuds,398.72,4,,Jensenborough
+2023-09-08,e97fda09-41c3-4851-a573-9e4f19a6f10a,Smart Watch,171.47,2,SPRING20,Stevenshire
+2023-06-16,f2226399-840b-488d-8b88-927f9eb37f9a,Smart Watch,147.26,1,,North Robert
+2023-06-22,d0b98dac-b8ae-4499-bcd5-83532917c458,Gaming Keyboard,221.12,5,,Lanefurt
+2024-03-02,35e8f70f-b2da-4e25-96b2-75934c934829,Bluetooth Headphones,462.44,4,,East Shannon
+2023-03-24,b4bbbe1a-e5a3-4b7f-8b9e-4861ce660cfa,Portable Charger,105.04,4,WELCOME,Millerchester
+2023-11-21,3a9211da-be8a-4296-bc1e-9009a491e8ab,Noise Cancelling Earbuds,319.38,1,FREESHIP,South Jonathanhaven
+2023-02-01,35e04533-8448-47e8-a508-7cb98c50edd0,Wireless Mouse,83.18,2,FREESHIP,Dalefurt
+2024-03-16,2164c0ac-2922-4747-bce5-4401a9d8e0d1,Laptop Stand,358.89,1,,North Nicoletown
+2023-05-30,55109b63-8948-4daa-a506-297c7470c7f6,Smartphone Case,408.45,4,,Stevenport
+2023-05-02,cef9a983-d9fa-4ecf-bf9e-b6c8991369cb,Noise Cancelling Earbuds,441.12,3,,Port Corey
+2023-03-07,79d42244-96fc-4568-b163-e8c0744e50bc,Smart Watch,287.37,2,WELCOME,Smithshire
+2023-10-29,c1f8847a-2b9d-4a77-b027-edf27d8cf8fb,Smart Watch,386.61,3,,Rochamouth
+2024-05-11,40374db4-1e17-466d-863b-c86c294277c1,LED Monitor,24.78,3,SPRING20,South Dana
+2023-10-09,bda5ac27-ed92-4de8-b3ea-af546f487e4c,Bluetooth Headphones,489.54,3,,West Nicoleburgh
+2023-01-14,b3f15a63-f0c0-4dfe-8f97-361e21c24989,Smart Watch,117.81,2,FREESHIP,Beltranfort
+2023-07-07,2f983ff2-f950-4115-a23a-8e245f98ba4e,Noise Cancelling Earbuds,59.67,4,,North Robert
+2023-07-08,224ccb8d-65e6-431a-b525-ae104a59fb7a,Bluetooth Headphones,394.76,2,,Manuelview
+2024-02-07,ff474ee2-22e8-4d1e-bc42-a78fe713fd96,Noise Cancelling Earbuds,487.11,5,,Stevenshire
+2023-01-06,91033d23-1fa4-46fd-acd7-b46e8eeb6662,Gaming Keyboard,350.0,1,,Melissaburgh
+2024-03-13,2f6bc19a-00a6-4bb9-a19f-0d8e758da1ff,Smartphone Case,214.47,1,SAVE10,East Jason
+2023-11-03,82e49711-8bc8-40b6-ad65-9537bd968da4,Noise Cancelling Earbuds,441.36,5,SAVE10,East Susan
+2023-05-03,e6a68364-634e-454e-9975-9d1f87c1da23,Smart Watch,25.49,2,SPRING20,South Dana
+2023-07-25,e40f95ba-35f8-4d2b-a5b2-8a9d693d9744,USB-C Cable,78.26,2,SAVE10,Danielbury
+2023-05-29,819f13a3-927c-45ad-abfc-ccc16f08d6ea,USB-C Cable,224.49,2,,North Jaredshire
+2023-01-22,718ac191-586b-4967-bc4e-4155aa2fbc8f,Wireless Mouse,210.6,2,,South Michealland
+2023-12-29,c8db187b-d70e-4193-812c-2b7761b4e5ca,Smart Watch,379.88,5,,South Dana
+2023-09-21,3e1a891f-598a-4f03-b344-debd5d547fcf,Portable Charger,493.83,5,SPRING20,North Nicoletown
+2023-11-17,32fe029b-1294-4b7c-ae42-d37bbdfdc696,Bluetooth Headphones,324.89,4,,East Debrahaven
+2023-10-15,41fbbb45-6c7b-44b8-ad07-b56ff531d5e2,Laptop Stand,269.91,2,,North Kevin
+2023-10-17,21fc6bb1-5b9b-400d-b00a-b6b8d2c3c7fc,Laptop Stand,323.6,3,SAVE10,Lauramouth
+2023-07-02,4a894112-8edc-42e7-b505-329774135719,Laptop Stand,111.6,5,SAVE10,East Susan
+2023-03-27,0d9d86d2-957d-4852-97c4-beefbdf8c96d,LED Monitor,274.11,3,,Smithshire
+2023-11-13,ca662c86-9ef0-4bd0-bd8b-c6268fef29db,Smart Watch,62.69,5,,East David
+2024-04-18,acd78f59-8b13-4b04-8a41-76b47ee1d429,USB-C Cable,144.66,4,WELCOME,East Michellemouth
+2023-05-26,86b85a3b-586b-40bd-b6cd-7620855d91a3,Portable Charger,220.1,2,FREESHIP,South Jonathanhaven
+2023-08-24,f413dc03-c37e-41d8-8faa-eef6397e12aa,Gaming Keyboard,265.12,1,SAVE10,South Michealland
+2023-11-12,e43bb81c-1a00-4912-aa47-cbcd4a6fc569,Wireless Mouse,365.58,4,,North Michael
+2023-12-21,8055825a-4bd8-4eb9-9087-d1248f9b66c8,Noise Cancelling Earbuds,387.85,5,SAVE10,Beltranfort
+2024-02-18,3a8b44ed-44cb-4a14-9ed2-0627e117f1c3,Laptop Stand,233.71,1,WELCOME,Foxland
+2023-06-09,b545cfa7-f87c-427f-86df-c89500c415c6,Smart Watch,438.95,4,,Foxland
+2023-08-08,f2c7378e-d982-4ac7-b92c-4f945f5d8541,USB-C Cable,177.16,3,,Melissaburgh
+2023-05-07,14ae282e-6a29-41d4-83a2-343e0cb05f63,LED Monitor,135.36,1,WELCOME,North John
+2024-01-27,b710b05f-969d-4d6a-b261-eff8795b260c,Smart Watch,178.94,5,,Port Corey
+2024-05-13,c4e10573-955e-44fd-ad40-d123107a9d6f,Smartphone Case,125.99,3,,Floresmouth
+2023-05-16,3d7aad7e-6101-4156-b34c-f6e5d891e390,Bluetooth Headphones,251.45,3,WELCOME,South Jonathanhaven
+2023-09-07,3b9325f9-3f80-460b-9439-690dd10f6e3f,LED Monitor,96.34,2,,Adamfort
+2023-12-06,ce1e7f16-27cc-419f-b127-001eb63ba092,LED Monitor,225.75,2,FREESHIP,Port Corey
+2024-04-29,9d426322-4f4a-4e9d-9ac8-e6638c27bd1e,Bluetooth Headphones,168.97,4,SPRING20,North Nicoletown
+2023-09-01,6ca0875b-4ae4-4da4-837d-16065b4f027b,USB-C Cable,121.51,1,,South Jonathanhaven
+2023-11-21,1a1c267b-e1ef-425a-9f91-88b70c601f77,Wireless Mouse,304.95,3,SPRING20,Rodriguezborough
+2023-06-19,155378ac-6395-4b6c-9242-ea8e76057128,Smart Watch,187.0,3,FREESHIP,Ericaside
+2023-05-21,71328de8-411c-49f0-bb3a-8a2d4c33c2d9,Laptop Stand,325.44,5,,Adamfort
+2023-07-24,0d9eca73-b0a5-425f-bb84-4e63b7240126,Bluetooth Headphones,121.08,5,FREESHIP,Foxland
+2024-04-14,3ff7c71d-5156-4824-a54b-eca0037d2b10,Smartphone Case,243.75,5,,East David
+2023-07-18,f7d8812b-8855-498e-8227-8341d223bb84,Gaming Keyboard,30.2,5,SPRING20,Beltranfort
+2024-02-14,e6f9ed58-731c-4608-91b2-b225a6450e12,Bluetooth Headphones,391.61,2,SAVE10,Port Corey
+2023-07-08,ca22dae4-e862-4f07-bb86-387abf92dc82,Portable Charger,140.7,3,WELCOME,North Beth
+2023-02-20,f751cf43-07b1-4d80-9633-7b43bbc4444e,Wireless Mouse,100.98,2,,Desireestad
+2023-01-09,9222e1e9-ca68-401c-ae76-70d400f8cebf,Gaming Keyboard,484.52,4,SAVE10,Rodriguezborough
+2024-01-20,4edb0f37-3e7c-4960-9c1d-08ef95677009,Laptop Stand,481.87,1,SAVE10,Desireestad
+2024-03-02,4c82bb88-04ae-4328-bdf5-fa0e419e04dd,USB-C Cable,193.32,2,,Harmonport
+2023-04-01,1a82437e-3c2b-470c-b7f0-dfb133a6f6a7,Laptop Stand,111.11,2,,East Shannon
+2023-01-16,b7dc22cc-27fc-4d9a-9fd4-61a72844052e,Smart Watch,99.26,4,SPRING20,East Susan
+2023-03-16,5b86c328-73cb-4a54-8033-859657493c70,Bluetooth Headphones,127.79,2,,Port Loretta
+2023-11-05,85f46e0b-50e4-4753-a4ea-ad0f5d0d7437,Laptop Stand,57.42,1,,East Susan
+2023-05-04,d70955c5-517b-4a4b-89f5-c62ba000c1f8,Laptop Stand,239.9,5,SAVE10,West Nicoleburgh
+2024-04-06,9d3c75d2-8df8-4e54-95e3-034f077f53c3,Laptop Stand,239.69,4,SAVE10,Lanefurt
+2024-01-14,384bf671-1f67-47b9-a710-f301baa56579,Wireless Mouse,176.76,3,FREESHIP,East Shannon
+2024-03-09,f22f4464-2b4f-4749-b224-263517b2a19a,Noise Cancelling Earbuds,313.71,5,WELCOME,North Beth
+2023-11-07,4464f0c7-9ee2-42a2-ac97-90805b627523,LED Monitor,60.51,3,,Rodriguezborough
+2023-08-03,4b77a2eb-7dc6-42b2-b495-ee8299cb7889,Bluetooth Headphones,419.19,3,SAVE10,North Robert
+2024-03-17,73f1bdb4-e4eb-4e0d-a899-c5befbdd00a2,Gaming Keyboard,284.94,2,,Melissaburgh
+2023-06-26,824db7c6-0080-429a-8326-1d054b4ce6f9,Portable Charger,353.71,2,SPRING20,New Jane
+2023-11-12,e835db1b-4795-4a46-9e46-232e0835d018,Laptop Stand,483.9,5,,Melissaburgh
+2024-04-15,3e11bef1-7188-486d-abc7-b7b47e128d8e,Laptop Stand,461.07,1,FREESHIP,Smithshire
+2023-11-14,d40f1656-657e-4fb4-9fcb-3b757a76834f,Laptop Stand,158.7,5,WELCOME,South Michealland
+2023-12-24,1dbaec3c-881c-45ed-ad99-ed0dbc65c414,Gaming Keyboard,401.06,4,SPRING20,Beltranfort
+2024-03-15,9cf2605a-a5ea-47fc-9e28-17126f5b8824,Smartphone Case,311.28,3,,Ericaside
+2023-05-17,13c8839f-c71e-4ebd-8218-544ca3eacf10,USB-C Cable,303.03,1,,Stevenport
+2024-01-19,47ba12e9-9fb9-4953-8453-b821246da84f,LED Monitor,68.97,3,WELCOME,New Melissa
+2023-03-20,5e772acd-85fa-48d1-9e2b-0f79c4cc0786,Portable Charger,357.05,3,,South Michealland
+2024-02-27,67b49a17-faec-46fe-80f5-14738d0cd01f,Smartphone Case,254.22,2,,Foxland
+2023-01-13,3061cec1-70ca-45fa-888c-f98a82be5fda,USB-C Cable,385.16,5,WELCOME,Adamfort
+2024-05-08,49fe6081-74de-4b23-a2ef-4bbe7e169461,Smartphone Case,107.62,5,,Lanefurt
+2023-04-30,6ecfe3e9-bd13-4786-be33-f337b6526ca2,LED Monitor,279.47,5,WELCOME,Foxland
+2023-12-09,8d52e51e-504a-4639-a284-e7d3c5e2e979,Gaming Keyboard,223.07,4,,Stevenport
+2023-08-16,a6ce7bbf-09f6-4362-84e8-eaf51b4cd470,Wireless Mouse,124.81,4,,North Robert
+2023-03-26,c786477c-2b3d-4c2d-b0ea-5f4403ad86d1,USB-C Cable,49.92,3,,South Michealland
+2023-11-21,76757041-12cb-45d4-8eea-8cebe0f5d522,LED Monitor,498.43,2,FREESHIP,Jensenborough
+2024-04-02,7f9a01bd-566c-4fa9-a1ab-0e267a34a15f,Smartphone Case,207.55,4,,North Robert
+2023-10-31,8c26e044-c0d5-4d9c-a9fb-02b151af8d1e,Smartphone Case,447.59,5,FREESHIP,Beltranfort
+2024-04-29,1a001401-a6c6-4e3d-a5a3-4b2b2ae0933a,Gaming Keyboard,375.89,5,WELCOME,New Melissa
+2024-05-14,21f5f15d-a783-48f0-9264-b34d794bc299,USB-C Cable,24.14,1,SPRING20,Beltranfort
+2023-07-07,ed79301a-4757-4c8a-b5cd-544c89c5d618,LED Monitor,202.16,1,SAVE10,Burgessfort
+2023-01-13,09e4a1bf-c666-4b1a-8459-23bfaa97c8d5,Bluetooth Headphones,75.85,1,FREESHIP,Desireestad
+2023-06-16,adc8b97c-a8ee-4d68-8821-08f03bdea9fa,Smart Watch,278.97,2,,Rodriguezborough
+2024-04-08,2c96004d-4df0-46bb-a6d2-7e8f00dee3a4,Portable Charger,329.84,5,,Smithshire
+2023-09-20,a66a4c37-92ca-4478-b7aa-b84ac5c39883,Bluetooth Headphones,258.22,5,,Ericaside
+2023-11-21,342735b3-a438-4e24-9484-786417e4ef32,Smart Watch,343.3,5,,Stevenport
+2023-06-09,31630ec3-d0a9-48e9-8d25-396cdd5f38e3,USB-C Cable,283.09,5,SAVE10,North Beth
+2023-05-04,57246f2b-5a59-4389-b46f-c79f85b94a69,Laptop Stand,205.56,1,,Stevenshire
+2023-12-23,e04e7341-261c-48de-93b9-b857e9b569e2,Bluetooth Headphones,420.15,4,SAVE10,South Michealland
+2024-02-28,13e9b293-637a-4498-b74f-cfc2dda2ddda,LED Monitor,323.24,4,,East Susan
+2024-02-24,c92852b1-2a78-4be4-8e0e-fd5cc7b2f3f5,LED Monitor,450.33,1,WELCOME,Melissaburgh
+2023-01-31,340fa523-b571-4609-b4e8-9a0ea30bb92e,Bluetooth Headphones,81.52,2,,North Michael
+2023-06-19,03dac8ef-5a2c-43ad-8ba7-b57769af3e46,Portable Charger,39.76,4,WELCOME,Lanefurt
+2023-08-25,31253cd2-7f02-4062-b810-12b4560557e0,Portable Charger,419.35,4,WELCOME,Dalefurt
+2023-07-01,a2df83a0-432f-45de-955b-d9bb31347eec,USB-C Cable,293.55,1,FREESHIP,Rochamouth
+2023-10-03,6138ea96-31a7-44c3-9831-9f1afa627926,Smartphone Case,59.68,3,WELCOME,Rodriguezborough
+2023-10-23,c544bcaf-f973-4c58-8445-806f73e3909a,Gaming Keyboard,218.52,4,SPRING20,Newmanbury
+2023-11-25,372918c2-2443-4b6a-8923-c525ca523de1,USB-C Cable,36.26,1,FREESHIP,Harmonport
+2023-10-29,0fd73ae4-5ef9-4904-a7cd-338c33ca87b0,LED Monitor,206.6,2,SAVE10,Danielbury
+2024-04-21,494b7726-3e94-483a-b7e4-9db324fa8bd3,Smartphone Case,199.54,3,SPRING20,Stevenport
+2023-06-25,44bf9296-6365-44f3-90e4-0f406159cf96,Wireless Mouse,25.27,1,SAVE10,North Beth
+2023-07-05,02f16f6c-8a5b-4ec3-86bb-eb99a4231649,Noise Cancelling Earbuds,464.98,4,SAVE10,Rodriguezborough
+2023-12-27,e11146d9-cff5-4917-af5d-762d95be0ef6,Bluetooth Headphones,445.86,2,,Ericaside
+2024-03-20,b6352ca0-6b86-4b07-b36c-64f55cf6b5ef,Bluetooth Headphones,418.53,5,,Ericaside
+2023-07-12,dfabea32-99ef-4335-8640-daa0b01ec11e,LED Monitor,464.89,5,,Melissaburgh
+2023-03-16,09703fdc-3e49-454c-a289-0efa94ad5d5b,Smart Watch,426.66,2,,East David
+2024-02-13,1f84d241-9b64-4fb9-95bd-ea6e28b552e0,Noise Cancelling Earbuds,136.43,4,,New Melissa
+2024-03-11,e46ab221-ff32-44ef-813d-0ad0e61e748d,Smart Watch,357.89,1,,Port Corey
+2023-10-05,0673e513-7146-49d1-98e1-8ba2ce74d2dd,Noise Cancelling Earbuds,306.65,4,SAVE10,Adamfort
+2024-05-03,3e19e3b9-4d76-4255-834b-02267856e822,Bluetooth Headphones,230.58,2,,Dalefurt
+2024-03-20,4abf41b8-08d6-484f-ae73-853d96023f0a,Wireless Mouse,368.96,1,FREESHIP,Danielbury
+2023-04-12,81970a2b-9ee3-4cf3-9701-18bf3456015f,Gaming Keyboard,123.96,3,SAVE10,Rochamouth
+2023-12-10,03f129a5-052f-444e-954f-036fe0d4e8e5,LED Monitor,465.48,1,SPRING20,Jensenborough
+2023-11-17,3b17d2db-89a9-49f0-a09f-04535e34659a,LED Monitor,333.34,5,SAVE10,North Jaredshire
+2023-02-13,3936219d-1c38-476e-9f77-e9d8601fd548,Laptop Stand,189.82,2,,Harrischester
+2024-01-12,a9040576-5c9f-4e53-bf07-7979f65eaff2,Wireless Mouse,235.18,4,WELCOME,North John
+2024-05-07,c07ee056-cfa0-405f-b527-013c11bc95a0,Smart Watch,58.49,2,WELCOME,Stevenshire
+2023-05-29,e051ac55-61ac-4518-83a3-02a43202bd83,LED Monitor,282.73,5,,North Robert
+2024-04-06,5fa6ac2f-7d91-40a6-84ae-aacd526cd074,LED Monitor,381.04,3,SAVE10,Lauramouth
+2023-08-10,c6f7bda8-c3c2-4546-bc4b-20e5cae9c35d,Bluetooth Headphones,168.3,4,,East Shannon
+2024-01-10,a2d733a6-4756-4252-af16-c365c7278983,Gaming Keyboard,77.55,3,,Butlermouth
+2023-12-25,104effd0-8461-4371-9ee4-6b2a05eb6823,Bluetooth Headphones,246.78,5,WELCOME,Ericaside
+2023-03-30,b159e5b6-a300-44cc-89c7-ad54bf34ad58,Portable Charger,234.03,3,FREESHIP,Rodriguezborough
+2023-01-25,91ade102-e12e-454b-86ee-382436f0e6aa,Bluetooth Headphones,341.9,2,,South Michealland
+2023-02-02,856c7fa2-662a-47a3-ab09-2da5d6caff8b,Bluetooth Headphones,296.66,1,SPRING20,West Raymondport
+2023-01-22,dec48f34-b99d-402d-a03b-ac2daac7fc90,Bluetooth Headphones,363.72,1,,Manuelview
+2023-02-09,0c455778-043e-49b7-9661-b9d462193385,LED Monitor,434.88,4,FREESHIP,North Kevin
+2023-08-09,fb55fb7e-5515-4534-8a2a-5bb06e23a4aa,USB-C Cable,129.47,3,,Stevenshire
+2023-11-29,f9647757-b9e3-4fd8-8e80-abf0abcdc060,Portable Charger,427.39,1,SPRING20,East Jason
+2023-12-02,d407f01b-f357-4b4f-a353-40dd726497c0,Smartphone Case,216.92,1,WELCOME,Jensenborough
+2023-01-14,88370d22-ae0c-43d8-ae12-0eeeca71f0aa,LED Monitor,359.31,4,,Rochamouth
+2023-03-13,5b78f8d2-f18b-4378-9431-38ad2b294b4c,Smart Watch,25.95,3,SAVE10,Floresmouth
+2023-09-25,a5ad7c59-098d-4651-9806-2036e962e594,Portable Charger,465.15,5,SPRING20,Burgessfort
+2023-04-25,70edea35-9fed-4e5f-944e-906dcc3cbd2b,Smart Watch,289.7,1,,Foxland
+2023-08-30,405c6298-d797-4214-b75f-cd38e046e015,LED Monitor,440.14,3,,North Jaredshire
+2023-01-13,563812bd-ce09-45f3-b2db-949c9a087bfe,Smartphone Case,438.59,4,,East Susan
+2023-05-28,95bc39c5-1e19-4838-95a3-f2628794b685,Gaming Keyboard,286.82,3,,Melissaburgh
+2023-09-23,a924fefb-dda3-4ad0-9ee3-f4fabf37fdf5,Laptop Stand,304.81,1,,East David
+2023-10-06,bb4a966a-63bf-4f18-a622-e9c5ae88d824,Bluetooth Headphones,277.01,4,,Harrischester
+2023-07-07,50695ecc-93d4-4ee6-88f7-021a16aeff4f,Bluetooth Headphones,139.2,3,SPRING20,Rodriguezborough
+2023-08-18,5e764877-f58d-47db-9dca-cbbf591dfa48,Smart Watch,379.18,5,SAVE10,North John
+2024-01-18,45e21de1-12fe-436a-b1cf-ff0ab436510a,Wireless Mouse,43.36,1,WELCOME,Lemouth
+2023-08-04,1efbde32-697a-4a9a-bdc5-d1ca6fe58ccb,Smart Watch,395.49,5,FREESHIP,Dalefurt
+2023-09-23,e7a8263f-fab6-4cd4-8d75-c68749609f34,Gaming Keyboard,449.82,2,,Foxland
+2024-04-15,6e998a67-dbbb-47c4-9828-735b0cae9ca1,Portable Charger,81.09,2,FREESHIP,Floresmouth
+2023-07-08,8968042e-f540-4a43-b28d-0c2335b86664,Gaming Keyboard,120.12,1,SAVE10,North Kevin
+2023-05-23,eacc4a92-32a5-4ff3-9454-9993b34c0654,Portable Charger,61.2,2,,Foxland
+2023-03-02,101234ef-b3d8-4897-aee3-e340af2ac9d6,USB-C Cable,343.59,1,,Floresmouth
+2023-05-14,c8139502-b916-4113-af34-2e4b3993521e,LED Monitor,322.56,2,,East Susan
+2023-02-14,93b20a1e-ebf7-4348-896c-c080bc5feeb4,LED Monitor,342.64,3,SAVE10,North Robert
+2023-04-09,edd1c969-f988-47c3-8540-91b5a174e571,Bluetooth Headphones,215.33,3,,East Shannon
+2024-04-08,ac875fd1-cf24-460d-9d22-e4e8d7d2190e,Portable Charger,375.12,3,FREESHIP,Foxland
+2024-03-15,fc37dc78-a8ec-4df4-9ed4-c707820d94c2,Smartphone Case,367.62,3,FREESHIP,Manuelview
+2024-01-07,e607f471-9d2f-4da4-91e7-669f437047ee,Wireless Mouse,67.75,3,WELCOME,Lemouth
+2023-01-02,5adde77d-f563-461b-9c2e-1c7057ec56ab,Portable Charger,489.01,5,,Port Loretta
+2024-03-05,aa33ff2e-b6ed-437f-8fe5-58fe0512a74a,LED Monitor,66.57,5,,East Lisa
+2023-02-17,76936391-fff8-4aad-a77b-e94eadc89b6f,Gaming Keyboard,423.66,2,,Rodriguezborough
+2023-09-12,f7f53c68-7ea5-47d6-a064-ed5469cbe736,USB-C Cable,216.03,2,SPRING20,East Jason
+2023-08-24,3a0e7da5-db38-4614-b77e-bb239ae95a11,Laptop Stand,88.4,2,SAVE10,Butlermouth
+2023-03-08,b58b7919-6add-456c-9d63-f50a6d6c2604,Portable Charger,134.54,5,SPRING20,West Nicoleburgh
+2023-06-22,4ac72944-a252-4de0-8cd3-c100ab822341,Wireless Mouse,217.72,3,,Newmanbury
+2024-05-01,f17cbf61-3af8-4717-a120-688c7d429244,Portable Charger,13.95,3,SPRING20,East Susan
+2024-05-02,a7f63010-5577-4dfd-929c-c7b14ee6df55,USB-C Cable,70.07,5,,Adamfort
+2024-02-22,14a0e10b-32ee-4acf-a22e-6480bc6c2ead,Gaming Keyboard,256.01,4,,Millerchester
+2023-08-06,19984163-fe2d-4ddf-b122-ace53fed9845,Portable Charger,491.58,2,,East Shannon
+2024-01-06,c5773cb7-9165-4f83-a39f-280ddcb4af0f,Bluetooth Headphones,30.11,4,,North Nicoletown
+2023-11-01,c6bce127-f5f0-4ce8-97a3-75b00c57b237,Noise Cancelling Earbuds,376.3,1,FREESHIP,East Shannon
+2024-04-03,d640db80-a13b-4c29-b6f3-f07114879523,Smart Watch,258.27,3,FREESHIP,Butlermouth
+2023-01-31,6b870fb5-49f6-491c-bcc0-f25342078029,Gaming Keyboard,464.02,3,FREESHIP,Stevenport
+2024-02-01,31d8d2d5-8d78-4d0b-8478-98eb324b9fd1,Gaming Keyboard,301.11,3,SAVE10,East Jason
+2023-09-30,d0c424a9-76eb-4fb6-9b42-e3af456c719a,Portable Charger,307.75,3,,Danielbury
+2023-03-04,c619de0c-19a2-45ac-b549-46289c80e2fb,Gaming Keyboard,374.37,4,SAVE10,Rochamouth
+2023-05-25,3d3a1ecf-0f9b-4cb6-a4ba-ebefffd43890,Smartphone Case,262.65,1,WELCOME,East Susan
+2023-08-15,a09aceec-bb81-4e38-8b55-f083fddaf168,USB-C Cable,450.52,2,FREESHIP,East Lisa
+2024-01-14,411959b9-9592-4ebf-b686-425dbd2e1508,Laptop Stand,163.02,2,,Harmonport
+2023-08-18,068f51cc-95d5-4135-aae2-324c5747eedc,Laptop Stand,196.27,5,SAVE10,North Kevin
+2023-04-01,00945d15-f8a2-4c42-a1c9-312447e55855,Smart Watch,350.68,2,SPRING20,Stevenport
+2023-10-24,d5f34f1f-702b-4ada-892d-5e162c0e02aa,Portable Charger,394.08,2,SAVE10,Desireestad
+2023-03-31,63cf0d1f-ac39-44c7-960f-d6a9f119be12,LED Monitor,137.83,1,,North Kevin
+2023-02-09,04ec013a-23a0-4501-9f56-b09008c6ddf3,Gaming Keyboard,42.74,2,,Port Loretta
+2023-08-18,828a6fd8-41fe-45f1-a40e-96ade19b7772,LED Monitor,487.18,5,WELCOME,Butlermouth
+2023-07-29,7f5f4b84-42ea-4aa4-a9b4-e857f4138b23,Portable Charger,53.33,2,SPRING20,Ericaside
+2023-05-22,4aead572-512b-4034-83b9-98942dae1b59,Portable Charger,351.78,1,,Lauramouth
+2023-11-02,3238ac4b-3a6e-47e4-9bb3-ec8ec082e143,Bluetooth Headphones,489.09,2,,East David
+2023-11-20,41a67257-1f91-458d-bcd9-f22187918a7c,Portable Charger,344.3,1,,Stevenport
+2023-05-28,3d7061b4-6835-4c47-9f31-36036517d5ec,Bluetooth Headphones,86.81,3,FREESHIP,Ericaside
+2023-09-05,7aa38e0d-6127-47b6-8d38-9c816e0aff3b,LED Monitor,254.81,2,FREESHIP,North Beth
+2023-07-21,e4a61dd8-b4b5-4e5b-8954-e64cbbcb6b03,Smartphone Case,209.25,5,,Foxland
+2023-08-18,2847831a-ec2e-45c9-b08e-22450d6f883b,USB-C Cable,67.92,1,WELCOME,North Nicoletown
+2023-01-16,0ed0675b-fc83-4d53-8548-d056ca42a74c,USB-C Cable,76.64,2,SPRING20,North Michael
+2023-05-06,4b516884-cc0f-4efd-b02c-578191a92875,Smart Watch,264.47,3,,Danielbury
+2023-07-23,7af4a17f-f97a-4e28-ad75-032b0e52a91e,USB-C Cable,148.58,1,FREESHIP,Danielbury
+2023-10-09,4d3bef73-f39c-43e3-88eb-ac529a653dda,Bluetooth Headphones,347.24,2,SAVE10,Beltranfort
+2024-01-19,b1bb43fc-572c-4ed4-99db-504c787d839a,USB-C Cable,360.14,1,FREESHIP,East David
+2024-01-26,9ce60e41-5fb3-47c5-bdd5-6e9f5bb69f1e,Gaming Keyboard,69.98,4,SAVE10,South Dana
+2023-03-21,307332df-77ad-4190-8d15-5b4026173440,USB-C Cable,349.42,2,,East Michellemouth
+2023-05-07,ae38944e-eb8f-490c-977e-d8fd6896947b,Portable Charger,333.6,5,SPRING20,Burgessfort
+2023-11-08,70eb6675-a795-4d21-94e9-568f16de8dd7,Smart Watch,220.23,3,,Ericaside
+2023-12-03,84d59634-e8df-455d-868c-8798a6396cda,Portable Charger,333.92,2,SAVE10,Lanefurt
+2023-05-14,0df5b68e-13c6-4502-ba86-892a56eaec8c,Smart Watch,128.56,2,,West Nicoleburgh
+2023-07-04,dfc0cf7a-3aca-48a5-99ea-7e7c54008334,Gaming Keyboard,286.42,1,SPRING20,East Susan
+2023-12-29,a8086ae9-63b7-4695-bad6-675c3406c8fd,Laptop Stand,38.74,3,,Jensenborough
+2023-04-20,79e0c76b-6fa7-439d-8a9c-3e4263b1cf98,Portable Charger,385.73,2,,Stevenshire
+2023-01-18,9f9d7c15-561f-49f2-95ad-f2b90fc2210f,Smart Watch,322.1,5,FREESHIP,Harmonport
+2024-05-14,e671daf0-8c29-41c7-92b9-e8059832be92,Laptop Stand,85.73,2,FREESHIP,Butlermouth
+2024-01-05,c01ed8bc-1e34-4e9f-bdd1-4350bf15e0a3,Wireless Mouse,261.59,5,,Smithshire
+2023-05-14,78ef3fad-50e9-406c-90cb-cf5426369052,Noise Cancelling Earbuds,426.69,4,,Foxland
+2024-01-04,e7d41df3-8774-49fb-833d-fd126788de5d,Portable Charger,406.69,5,FREESHIP,New Jane
+2023-07-27,b9b8e368-67d5-498f-8e91-8963823ae9cc,Portable Charger,316.45,3,SAVE10,East Susan
+2023-05-11,b00caad9-709c-435c-9452-84ce00f04e55,Smart Watch,433.91,3,SPRING20,Foxland
+2023-12-10,5cd01bdf-8757-4d9d-a39b-1f70dde3f4f5,Laptop Stand,369.92,5,SPRING20,Lauramouth
+2023-11-15,e7c0278a-1eae-469f-afb5-a7aa500b2727,Smartphone Case,262.84,3,FREESHIP,West Nicoleburgh
+2024-01-30,bddb2cd6-3e44-4f5c-a8ff-c7bf5bb22c30,Gaming Keyboard,279.23,5,FREESHIP,Newmanbury
+2023-06-19,7ca59d4e-7252-4273-abf9-918c9e686f19,Smartphone Case,18.88,1,SAVE10,East David
+2024-05-04,4ba8c99d-85ba-4516-be2d-69af72264208,Noise Cancelling Earbuds,321.65,1,,Rochamouth
+2024-01-30,42cc34ef-8415-4cc9-be9b-9fe8a35ec9cd,Portable Charger,211.69,5,,South Jonathanhaven
+2023-09-13,d36374fc-3aec-4fcb-83c2-df734a320208,Laptop Stand,221.58,2,FREESHIP,East Jason
+2023-03-01,123066b8-cd65-481f-b348-0f28191c8ed8,Laptop Stand,189.04,1,,Lauramouth
+2024-04-09,03608dbb-0471-4381-a028-f75fef26e48e,Smart Watch,378.26,2,,East David
+2023-11-26,a31d9c08-e24a-451f-8fae-0577c9a7d7c3,Smartphone Case,182.52,3,FREESHIP,East Michellemouth
+2024-02-24,9bd0ba3f-0e97-48fc-8f4f-7e2d2e9996a8,Smartphone Case,49.72,1,,West Nicoleburgh
+2024-02-29,8530e98d-a945-47a2-9aeb-829a0bd94df7,Wireless Mouse,178.7,3,WELCOME,Adamfort
+2023-12-20,d9834411-fee4-4759-a419-a58b64966d5c,Laptop Stand,13.36,5,SAVE10,North Hannahton
+2023-05-04,a03c94a3-1909-4c62-93ce-e8709fcf025b,Smart Watch,73.97,1,,Burgessfort
+2023-08-17,77d7cfa7-a759-4ff2-bae9-02f6b05f9734,Wireless Mouse,434.22,1,SPRING20,Dalefurt
+2023-07-13,b7db8247-923c-41be-a19e-b2ab8303357e,Noise Cancelling Earbuds,216.61,3,,East Lisa
+2024-01-02,000fd890-45c2-4b2c-8c3d-ee1910867516,Bluetooth Headphones,282.0,1,,Manuelview
+2024-03-27,c74c6d01-a45d-4122-b998-588b121ade2d,Smart Watch,308.0,5,,Lanefurt
+2023-05-31,9bb59550-37d7-4493-a877-000ceee29eb2,Smart Watch,164.83,5,SPRING20,Lemouth
+2023-09-29,be602e1b-1453-49da-a985-707e1895f0c3,Noise Cancelling Earbuds,303.23,4,,Burgessfort
+2024-02-07,58ac6a6e-cbe4-4a3d-8df8-bd1e00627338,LED Monitor,476.94,3,SAVE10,North Kevin
+2023-05-05,5e0bc7e6-3393-43bc-96a9-320bfedab6eb,Gaming Keyboard,267.99,4,,North John
+2023-09-23,478de9b5-f394-4767-b695-387c1fb6953f,Bluetooth Headphones,95.96,1,FREESHIP,Floresmouth
+2023-02-01,64bbe98f-c0b1-48b3-b1ca-188c91d7a084,Bluetooth Headphones,341.45,2,WELCOME,Stevenshire
+2023-01-02,d56e49aa-4edb-40d5-9fc9-a3e471ab049f,USB-C Cable,50.87,1,,Manuelview
+2023-04-08,cc042eb7-1f0f-46bf-814c-2b12d428d0ca,Laptop Stand,70.84,1,,Ericaside
+2023-06-01,e5649b75-cd5b-47f5-977b-26119260a7cb,Noise Cancelling Earbuds,386.66,2,SAVE10,North John
+2023-06-19,974da132-6721-46d1-ae0f-6b8c559df694,LED Monitor,483.55,1,SPRING20,Burgessfort
+2023-06-01,6a8aead0-4245-490c-a741-a4a77d925422,LED Monitor,278.6,2,SPRING20,East Debrahaven
+2023-08-26,07ad58b1-0db4-4c58-a125-da5dff1ce0e0,Gaming Keyboard,307.73,2,SAVE10,Port Loretta
+2023-05-22,5931d871-e62b-4790-aec3-2a2a0c690ee1,Smartphone Case,24.14,4,SAVE10,North Nicoletown
+2024-03-10,5398e7dc-844b-43f1-a8ed-9347ae98a153,Portable Charger,330.71,2,,South Michealland
+2023-07-14,9395141f-18b2-4800-bdac-bac9b7b8b073,Smartphone Case,117.48,4,FREESHIP,Harmonport
+2024-01-22,6968b7ac-d55b-4002-af4e-8b63ff13b100,LED Monitor,427.5,5,,Burgessfort
+2023-01-24,ea78e827-785f-4bcf-ab20-001b2619daca,Bluetooth Headphones,106.68,1,FREESHIP,West Raymondport
+2023-03-11,40a015f1-368b-47dd-8450-2075c48de20d,Noise Cancelling Earbuds,84.55,1,,Adamfort
+2023-07-28,852249e8-2d38-431c-a44c-4214d90f50a1,Bluetooth Headphones,245.26,1,,Burgessfort
+2023-02-15,088bc6b7-2763-4ad1-951f-451ae4e2a161,Bluetooth Headphones,426.94,1,,Melissaburgh
+2023-12-15,90f07346-c120-4a8f-a915-312008e44949,LED Monitor,74.46,1,,Smithshire
+2023-09-30,6ddfb7e2-49cd-42c3-a9df-f2226dd5bf45,USB-C Cable,134.6,5,FREESHIP,Ericaside
+2023-10-18,176ac276-a2b4-423d-b9a9-27f62fe592f5,Noise Cancelling Earbuds,215.81,4,SAVE10,Stevenport
+2023-02-04,c40cd277-15e9-4427-9cb2-fbd0ae3d3627,Smartphone Case,292.52,5,WELCOME,South Jonathanhaven
+2023-03-13,cab71340-c519-41b3-a722-68f8c9cd0200,Wireless Mouse,221.3,5,SAVE10,New Jane
+2023-02-02,30d19175-90a4-416d-86ed-0aa01ad18429,Smart Watch,131.58,2,,Danielbury
+2023-08-11,0752c9ff-f501-4a8e-b800-74504acf1cb0,Wireless Mouse,29.81,1,FREESHIP,Smithshire
+2024-05-04,9a4e4445-b87a-43ec-83f8-919bb98905b5,LED Monitor,249.92,4,,North Michael
+2023-02-13,618361b4-dd26-4f26-b516-b2237d751463,Wireless Mouse,108.17,1,SPRING20,Ericaside
+2024-05-06,79e05f41-5301-4aeb-94e7-750d4958828b,Gaming Keyboard,46.32,3,FREESHIP,New Jane
+2023-11-27,8a1e901a-2a20-4524-a9b8-0caa488144fd,LED Monitor,373.85,5,,Port Corey
+2024-02-04,6a6b2aa9-ba7c-4b13-932a-4084927115ee,LED Monitor,45.76,5,FREESHIP,Manuelview
+2023-08-25,38ede3d4-1ec6-46af-90be-0634f9b3e826,Noise Cancelling Earbuds,242.45,3,WELCOME,Rodriguezborough
+2024-04-10,dae391b1-f764-453c-b9dd-a91c28f969b9,Wireless Mouse,172.5,5,,South Dana
+2023-01-11,1c742d8e-1043-4b32-bdb4-0acfe72dfa2f,Noise Cancelling Earbuds,351.2,1,,Beltranfort
+2023-12-21,5f1d2591-06b3-4c2e-909a-1d219da591c9,Bluetooth Headphones,270.98,2,,Newmanbury
+2024-04-28,71fc83e6-47ab-4322-8a7f-f879318c9eba,Bluetooth Headphones,498.67,5,SAVE10,Foxland
+2023-08-01,1d0b64ee-78db-48ef-8b51-f763418116dd,Portable Charger,400.54,2,WELCOME,Butlermouth
+2023-12-23,da02e3a8-9801-49d8-b309-9204eae97c70,Wireless Mouse,342.48,4,SPRING20,Manuelview
+2023-01-09,7d6d7016-e347-45d4-8043-b474c64cc57a,Smartphone Case,473.56,3,SAVE10,North Nicoletown
+2024-02-21,9372d782-eab1-4173-910f-d3fcc100f750,Bluetooth Headphones,114.43,3,SPRING20,Rochamouth
+2023-11-25,518ccb87-0f30-4eaa-9efe-163f8ca880d9,Smartphone Case,143.45,4,SPRING20,East Michellemouth
+2024-05-10,92b00a5f-5688-442d-b846-68c61e7ebfe6,LED Monitor,138.26,4,,Harmonport
+2023-01-05,13c1fccd-377d-4cf3-affd-737491952054,Laptop Stand,183.16,2,,Barryberg
+2023-10-05,8354dd59-ea53-46ac-81b8-99b9e49f0213,Bluetooth Headphones,110.06,1,,Desireestad
+2023-06-15,56e433d8-7d73-4518-b87c-8516a5927ec1,Wireless Mouse,188.36,5,FREESHIP,Desireestad
+2023-12-18,4694ba98-cb30-4c9b-8ed7-bf9249c42df8,Noise Cancelling Earbuds,392.64,2,,Butlermouth
+2023-10-08,5749e994-8c3b-486e-8145-9d973fea1294,Noise Cancelling Earbuds,482.63,4,FREESHIP,East Susan
+2023-10-28,367d8534-3c37-47c2-8287-786670a75ee5,Smart Watch,366.16,2,,Butlermouth
+2024-01-23,07460ada-6725-4823-9d97-bd487c4b5865,USB-C Cable,100.04,5,SAVE10,Jensenborough
+2023-04-06,10994054-5e09-46fa-8e79-dc22f82ce9b0,Gaming Keyboard,174.82,1,,Rochamouth
+2023-02-06,0c9bba9b-93e2-4934-8276-1bb44081c5a2,USB-C Cable,153.56,1,,Newmanbury
+2023-04-15,24947156-3bb4-417d-bc9e-3253ba8cc51a,Portable Charger,321.1,2,,Foxland
+2023-01-14,5955f6aa-52be-4bff-866a-3552d89b05f2,LED Monitor,136.61,3,SPRING20,Stevenport
+2023-03-30,74ea2e55-3df9-42bb-918d-310eda854b4b,Bluetooth Headphones,97.5,3,FREESHIP,Stevenshire
+2023-10-16,9baa0dc8-b16a-4b95-88f3-f15143697898,Smartphone Case,405.45,3,,East Shannon
+2023-04-22,d2717533-5ea5-4e7c-9414-1de0c361d354,Smart Watch,160.84,5,,Millerchester
+2023-02-06,c347ffe5-8342-4560-aaa0-dc8329cb796e,Gaming Keyboard,474.06,3,,Barryberg
+2023-05-10,c900556a-15a0-4abc-9c3b-932dfb4416fb,LED Monitor,236.35,3,SAVE10,South Michealland
+2023-07-27,ce7f716d-bf2b-4589-b340-aa502a5dbf2e,Smart Watch,69.2,2,SPRING20,Butlermouth
+2023-04-19,831c294e-bd81-491d-b439-bccfe9e0d64b,Noise Cancelling Earbuds,265.86,3,FREESHIP,East Shannon
+2024-01-02,e347d122-cd1d-44df-a8e6-012036c8ea1d,Smartphone Case,248.99,2,WELCOME,Dalefurt
+2024-05-09,3e2fb189-6673-44f3-9cf6-081a222b388a,Bluetooth Headphones,59.89,5,FREESHIP,Manuelview
+2023-10-02,bac2d8c0-66b1-4f4d-8b6c-53895c466792,Noise Cancelling Earbuds,183.55,5,FREESHIP,Desireestad
+2023-05-26,df47519e-15a0-4e0b-ba44-05b2b46d9d5f,Gaming Keyboard,210.45,2,,Floresmouth
+2023-04-24,900f0afa-8825-43b5-870c-7fbc48657dbe,Portable Charger,191.56,1,,Port Corey
+2023-04-22,b04e2327-38e1-4fcc-b70b-84e05628f1aa,LED Monitor,436.42,2,FREESHIP,South Jonathanhaven
+2023-11-16,c8f93ade-254e-4c83-af66-36c434eb099e,Wireless Mouse,251.63,1,WELCOME,East Lisa
+2024-03-05,88b13014-6be3-419e-ba7c-80f65b538be6,Portable Charger,417.26,3,FREESHIP,Floresmouth
+2023-09-10,1491dd81-3d6e-436a-a676-bc64d68081c6,Laptop Stand,414.78,2,WELCOME,Lemouth
+2023-12-08,e923b863-12f1-4f09-a477-b29c2d5941b7,Bluetooth Headphones,143.3,2,SPRING20,Foxland
+2024-02-29,c89693a4-a1f9-4767-9de2-e961af52001b,Smart Watch,229.61,2,SAVE10,South Michealland
+2024-04-06,bc005c00-a22c-4ddd-9346-7190e3c113e1,Wireless Mouse,201.93,5,SPRING20,Lemouth
+2023-11-05,d740f27d-425e-495d-ae9b-7137d7c96a28,Smart Watch,322.35,3,,North Hannahton
+2023-02-15,17271725-fec6-4a38-8d95-9c3758b6b5c6,Bluetooth Headphones,45.55,2,,Stevenport
+2023-02-25,186af9b7-1ccb-4f27-b4f4-1f1f112c7279,Wireless Mouse,242.91,4,SPRING20,Manuelview
+2023-05-07,5d8c214b-846b-478c-a3b8-fc85e363e68f,Noise Cancelling Earbuds,208.64,5,,Newmanbury
+2023-04-08,5e549c33-48df-4eb4-907c-f7428368ab5b,Noise Cancelling Earbuds,327.57,3,SPRING20,Rochamouth
+2023-04-16,3e656921-9612-455f-aaa4-e3c033e168d6,Noise Cancelling Earbuds,423.54,4,SPRING20,Burgessfort
+2023-03-29,549c37a6-f812-4a99-92b0-e897c527ec4c,Portable Charger,295.34,3,,East Michellemouth
+2023-06-25,74be9f0c-312d-468c-8559-77650a9c8282,Smartphone Case,200.67,5,,West Raymondport
+2024-04-11,22ac2ad7-113a-4f5b-b4ea-a4319e30f64f,Bluetooth Headphones,257.78,1,FREESHIP,South Jonathanhaven
+2023-04-10,85a77ded-adf7-4e59-ab78-37b2652c532d,Gaming Keyboard,410.3,3,FREESHIP,Lauramouth
+2023-01-27,74504b8d-0c14-4c36-9edb-1353af265893,Smartphone Case,285.31,1,,Beltranfort
+2023-08-23,a82b8e96-fe88-4f2e-a1e2-bbe308c9471f,Bluetooth Headphones,435.59,2,,North Jaredshire
+2024-01-31,1a5620dd-c7cb-48e5-b71b-dc566f05af41,Gaming Keyboard,226.91,3,SAVE10,North John
+2023-07-14,f7f7d506-df36-46e7-876e-2654e5c5073b,Gaming Keyboard,63.89,4,WELCOME,Rodriguezborough
+2023-04-16,4a8dba08-3388-4dcb-b200-b00137622bfc,Smartphone Case,226.0,5,,East Michellemouth
+2024-04-04,70bdc9ef-edaf-4be2-bb77-09a2a76954c7,Noise Cancelling Earbuds,279.95,1,WELCOME,North Michael
+2023-03-17,ee9ed21f-48a1-4691-ab98-a76c5498cb16,Wireless Mouse,64.65,4,WELCOME,Desireestad
+2024-05-11,5e6eb924-20b3-4a93-b5ca-7c8e2fe69099,Wireless Mouse,129.64,1,SPRING20,East Michellemouth
+2023-03-16,6606097e-32d3-49bf-b01e-a85611613f3f,Noise Cancelling Earbuds,448.54,4,,Manuelview
+2024-01-10,a5232a49-9b4f-430e-b2a0-5d007d8a5773,Wireless Mouse,105.06,4,WELCOME,Port Corey
+2024-04-18,44d552d0-c222-442d-82c0-665c1fdfa8ad,USB-C Cable,253.36,3,,Port Loretta
+2023-07-05,6742979b-00c2-4e91-b226-379a37144c5e,Bluetooth Headphones,202.7,5,FREESHIP,North Robert
+2023-06-10,4d48d2a6-be14-49a5-b0f2-955e9ee326d8,Laptop Stand,271.7,4,,North Jaredshire
+2023-03-24,a4dd5746-6523-49af-91a1-f9d427de76ab,Laptop Stand,365.78,5,,Burgessfort
+2024-04-11,47b94774-1ccc-43fc-9395-f819f234ea88,Bluetooth Headphones,222.34,2,SAVE10,Smithshire
+2023-12-08,fb6ab08e-7dd2-4cdc-8f6b-13f354b203d3,Bluetooth Headphones,210.22,3,SPRING20,Floresmouth
+2023-11-01,55666b9a-dffe-4e49-8867-563d6eb49c47,Noise Cancelling Earbuds,341.38,1,,North Robert
+2023-01-03,5e8d4e18-bdfc-4fc2-bbb1-8921b3382565,Portable Charger,250.69,1,SPRING20,Lanefurt
+2023-08-27,7fd765b1-2e46-40b1-8200-5d9d33f08cc9,Wireless Mouse,305.94,2,SPRING20,Adamfort
+2024-04-29,375b7bd0-6280-42b7-b1cb-3a52a490c0d3,Wireless Mouse,227.49,1,SPRING20,Lanefurt
+2024-05-01,d5ac309a-2585-46e2-b65d-04a92a8652b5,Portable Charger,145.09,4,SPRING20,East Susan
+2023-11-21,299dd176-5b8a-4d75-b982-e4b58cee6fd6,USB-C Cable,167.45,4,,Beltranfort
+2023-09-24,cce2a065-67d9-41e5-a829-88e4ff16e46c,Smartphone Case,95.39,2,,Lauramouth
+2023-06-10,381a1395-1c18-4ffb-bfa4-e4ee60601320,LED Monitor,408.22,1,SPRING20,Manuelview
+2023-01-02,7f4cfd92-45f7-454f-9f7c-1d5a9c6bea44,Noise Cancelling Earbuds,321.99,4,,South Jonathanhaven
+2023-07-15,f2ebf099-0d9f-44ae-9dec-49f0cdaa0614,LED Monitor,368.4,3,WELCOME,Foxland
+2023-03-12,0f8034ad-90ff-42a5-9e3e-c890f0305ce5,LED Monitor,76.04,1,WELCOME,East David
+2023-11-12,b8b396fe-c7a0-42f3-aff6-031297473ced,Noise Cancelling Earbuds,84.82,2,SAVE10,Lemouth
+2023-09-02,feb7e623-7bf7-4cb0-b996-bf969739205b,Noise Cancelling Earbuds,234.88,3,,Rodriguezborough
+2023-01-17,4ce7cbe8-e3ac-4f56-850d-a2b10f678eb6,Bluetooth Headphones,490.02,5,FREESHIP,South Dana
+2023-08-03,955a2856-a474-428f-a4d7-db454ae5db7b,Wireless Mouse,335.19,1,SPRING20,Lanefurt
+2023-01-12,a28a2b79-6a97-4483-a8b9-10e86ae837ff,Bluetooth Headphones,205.9,5,WELCOME,West Nicoleburgh
+2024-04-30,d0481c1b-eeff-42ad-aa97-494a38b5f442,Smartphone Case,207.93,2,SAVE10,North John
+2023-05-03,e15ceb8a-9131-47b2-95c6-10d319537b2e,USB-C Cable,297.74,5,,North Jaredshire
+2023-09-10,3a434af0-e992-4d13-b9ab-20a7ac334606,Portable Charger,429.23,1,FREESHIP,Port Corey
+2024-05-12,9747b55d-03f9-4025-92e5-305e379a43ba,Portable Charger,282.22,4,WELCOME,Jensenborough
+2024-01-07,15b15dc7-db90-42ce-ba9c-fb3a9e03b11c,Laptop Stand,441.86,1,FREESHIP,East Susan
+2023-10-19,e85005d2-40f0-4512-99d3-2b5eb5b38b0a,Gaming Keyboard,32.15,4,FREESHIP,Melissaburgh
+2024-02-27,e3e79a2e-ee74-4e9b-9f61-4cf463ea490d,Wireless Mouse,74.64,5,FREESHIP,East David
+2023-09-11,cd17cd8e-6ffa-4dbb-96f3-491de38ebee9,Smartphone Case,160.47,1,,Beltranfort
+2023-09-08,35d08e36-ef95-4b70-9c71-ac15af823f80,USB-C Cable,288.63,3,SAVE10,Smithshire
+2023-09-19,4896d327-eeff-4cbf-bc78-72f986232a84,Smart Watch,193.48,5,SPRING20,West Raymondport
+2023-02-02,39814dac-0e98-4830-9d8f-a22e36aab210,USB-C Cable,491.68,5,SAVE10,Manuelview
+2023-09-20,efdb400c-e9cb-4917-a6f3-62b891d33b19,LED Monitor,21.85,5,,South Michealland
+2023-11-20,83774d08-f602-4cdb-9471-37d927f48979,Smart Watch,472.58,4,FREESHIP,Ericaside
+2023-10-20,abd0cb52-c7a3-49e5-a249-a94090c4c7ab,Gaming Keyboard,171.96,4,FREESHIP,Ericaside
+2023-04-21,5c2cfe6b-a17c-43ea-b2f6-7f9ed39f0512,Bluetooth Headphones,83.02,2,SPRING20,East Shannon
+2024-01-29,60256214-3049-46bf-8fb5-06548b61aa32,Noise Cancelling Earbuds,185.34,3,,North Nicoletown
+2023-04-05,09ea1d87-b087-4fb4-9b5e-9824fc90c256,Bluetooth Headphones,422.84,4,,Lauramouth
+2023-07-23,f8058b2c-b2fc-4eed-8fde-83c4ad650aa7,LED Monitor,408.71,1,SPRING20,South Michealland
+2023-04-21,d723722f-0cca-48ce-91a8-efbc7a4355e9,Noise Cancelling Earbuds,369.53,4,WELCOME,Desireestad
+2024-01-02,e77073ed-0fd6-4d18-8071-167d39ea4114,USB-C Cable,266.53,2,SPRING20,Lemouth
+2023-01-23,45572d38-2a51-4ae6-83cb-0dba94b28aa2,Laptop Stand,445.61,1,,North Jaredshire
+2023-08-18,3a714484-81ac-40a0-a323-fda11824d3d8,Bluetooth Headphones,287.0,2,FREESHIP,South Dana
+2023-04-04,3fc7abfd-4e73-431b-b605-9c3b46a47bf7,Gaming Keyboard,417.4,3,SPRING20,Lauramouth
+2023-09-07,dd2758b4-82a6-4c60-9d2b-627b8f4db9da,Portable Charger,396.13,5,SPRING20,Harrischester
+2023-06-29,56484ea6-ac09-443b-8505-19ff74d1f7bb,Wireless Mouse,176.0,1,SAVE10,Barryberg
+2024-02-02,d48f548f-ce0d-4cca-b7b0-1eb00ab175c0,USB-C Cable,395.16,3,SAVE10,Butlermouth
+2023-09-03,6e3b5547-e79f-40c1-9652-e3ab6778137c,LED Monitor,431.55,4,WELCOME,North Jaredshire
+2023-04-29,6201c78e-42e5-468a-9c8a-68097d1c44c5,Gaming Keyboard,88.85,5,,North Jaredshire
+2023-04-27,3a55d4ba-f80b-449e-b43f-9bc3d1c2da58,Laptop Stand,292.37,4,FREESHIP,Harmonport
+2024-01-17,803fc9d4-5f32-433c-b35d-040f843bb28e,Smartphone Case,198.09,4,SPRING20,Rochamouth
+2023-02-26,5de0d72b-21b0-41b6-a746-0d7b8da7596b,Bluetooth Headphones,336.35,3,WELCOME,East Michellemouth
+2023-02-07,df62e3a4-6ecb-4932-bd03-32be80aba74a,Laptop Stand,119.95,2,,East Jason
+2023-09-30,18d9671f-dba1-43f0-af05-cef87e3fb574,Noise Cancelling Earbuds,194.65,3,,North John
+2024-05-10,e1fb62e6-25a4-4733-8a16-66623cc19d57,Wireless Mouse,410.29,1,WELCOME,Beltranfort
+2023-03-02,c1874c0e-1436-4765-b993-49803fea490b,Gaming Keyboard,469.68,3,,Beltranfort
+2023-02-22,90439f5f-000f-43d7-87dd-346b1e584b35,Portable Charger,499.92,3,SAVE10,Melissaburgh
+2023-03-03,86a140d0-2c4f-420e-b5d3-938c0f1b7654,Gaming Keyboard,135.78,1,,Millerchester
+2023-06-01,ab356787-85c8-4866-8326-d9b215853325,LED Monitor,43.84,4,FREESHIP,Melissaburgh
+2024-02-26,7f2549de-10be-41c6-bbbe-3d99d4fd84e5,Noise Cancelling Earbuds,36.55,3,WELCOME,South Michealland
+2023-07-21,a5fa8f5d-7bff-45a5-b292-f045bd63ade6,Gaming Keyboard,10.81,4,,Foxland
+2024-04-10,1eba4708-7835-4ff9-994c-e1e8549e3738,Noise Cancelling Earbuds,277.97,1,SPRING20,Lanefurt
+2023-05-09,44ac0f3a-22b9-42f3-aac6-4e34da553eb0,Bluetooth Headphones,78.57,5,SPRING20,Floresmouth
+2023-07-08,25c62d9d-5f4a-4b21-9d81-8573d034330f,Gaming Keyboard,188.69,5,FREESHIP,South Jonathanhaven
+2023-06-28,9ddd2a27-038a-45c4-ab28-d9c131d63e58,LED Monitor,177.33,3,FREESHIP,New Melissa
+2023-05-15,821ed033-c2e7-478d-b940-2aa22ebff61f,Bluetooth Headphones,71.33,1,,East Debrahaven
+2023-07-05,731e5b5b-1a82-4fb3-b425-87cb9d3bc0dc,Laptop Stand,289.3,3,SAVE10,West Raymondport
+2023-03-21,64f386e6-9150-4f55-9502-52118a9af78c,Portable Charger,143.95,2,,Desireestad
+2023-03-14,56ebc92b-b2eb-4ddf-a67c-00fdc53f8163,Wireless Mouse,367.26,4,SPRING20,Danielbury
+2023-06-16,2f2ff3fc-286f-44d3-b13a-590dbb87654f,Smartphone Case,36.18,5,SAVE10,Rochamouth
+2023-12-31,8430b94b-2d40-444e-8b1d-612dc1b71f86,Laptop Stand,325.25,1,,Lanefurt
+2024-03-29,4db5d2ee-0ada-41ec-8401-c5054cb51128,Laptop Stand,435.53,3,FREESHIP,Rodriguezborough
+2023-02-15,5aa209c7-2a31-4978-86c2-66a4827eb1b2,Smart Watch,243.97,3,,West Nicoleburgh
+2023-11-23,7b63c170-faac-4b1d-b57d-949e6251cc71,Bluetooth Headphones,49.23,3,,West Raymondport
+2023-08-30,fdb33f70-8608-4252-b6b3-39256303457e,LED Monitor,435.29,1,,North Michael
+2024-03-05,19a1116d-d857-4bd9-85c6-123464540b59,USB-C Cable,331.97,2,FREESHIP,Butlermouth
+2023-11-05,48fac919-f47b-41aa-9a31-7e41d9ce3b1b,Bluetooth Headphones,31.03,3,,North Hannahton
+2024-04-22,56805769-0bfe-4f16-8408-45c7f48a6bbc,Wireless Mouse,226.09,2,SAVE10,Manuelview
+2023-12-30,cd64ee34-8ef7-4be1-ac7c-8ce1f0fe9330,Laptop Stand,193.57,1,SPRING20,West Nicoleburgh
+2024-05-05,3fc33c42-7a28-4bfb-98b3-bd2dadf6662f,Smart Watch,227.02,1,SAVE10,Newmanbury
+2023-09-19,27c2ea89-f778-45ee-98cf-04a49d51a093,Wireless Mouse,476.31,5,,South Michealland
+2023-11-03,f667d2bd-579f-4261-bfc8-96edd07848de,Portable Charger,355.22,2,,Harmonport
+2023-12-31,a0e2850f-4c0a-49dd-94fc-b0ff0e0532ee,Smartphone Case,414.05,1,SAVE10,Dalefurt
+2023-09-19,0333dcbd-1630-4940-bb3a-b7b8b1041d48,Gaming Keyboard,142.89,4,,Danielbury
+2024-01-19,83a24036-ddd3-4f75-ad18-8f08d58a8780,Gaming Keyboard,102.84,3,,Port Corey
+2023-12-06,9e389717-182c-447a-9633-fe27d2253b56,Smartphone Case,302.49,3,,Butlermouth
+2024-04-02,32d116ff-e622-437c-8504-64ee1974d9cc,Wireless Mouse,169.84,4,,Beltranfort
+2023-11-28,7f88d2d0-5153-4eff-91bc-68cd9ac74752,Noise Cancelling Earbuds,123.74,3,SAVE10,Burgessfort
+2023-07-25,86e72bb6-8655-4bc5-a1ee-7cc3ee0672ad,Gaming Keyboard,55.43,5,FREESHIP,North Robert
+2024-01-03,ec097399-7311-43d5-a4b7-85781d364dbb,Smart Watch,147.47,3,,Barryberg
+2023-01-06,c1fa5b83-d219-40b9-9d4a-c3fef686f41e,Laptop Stand,389.28,3,,Harmonport
+2023-01-14,feeab061-f224-41f3-b441-dac83338f54f,Laptop Stand,295.43,5,,East David
+2023-05-16,8a82bb3a-c3ae-4585-8e5f-26f4028cb4ab,Laptop Stand,211.29,3,,New Jane
+2023-02-04,9fb1213b-09cc-4cb7-9376-3db67bf930e0,Laptop Stand,233.63,1,WELCOME,West Raymondport
+2023-07-14,b9ff2acb-60c7-48fb-a386-0b32cb4a64a5,Gaming Keyboard,205.28,3,SAVE10,Barryberg
+2023-06-26,de4b3150-68c4-4cd8-977d-8abf27480294,Noise Cancelling Earbuds,208.41,2,SAVE10,Smithshire
+2024-03-01,50bf7d58-9377-42b3-bd29-53a78a95466b,Smart Watch,357.71,3,,North Nicoletown
+2023-09-30,9670d73e-8bb3-4476-af4d-cb7f8bef71d9,USB-C Cable,183.71,4,WELCOME,Stevenport
+2023-09-13,6dc140bf-deaf-404a-a8ab-fe75c0a804d8,Smartphone Case,297.01,2,,New Jane
+2023-09-03,68b0e397-e7ca-4e75-88f2-8892c0499f29,LED Monitor,201.77,5,SPRING20,North Kevin
+2023-07-10,40ec3d4f-e37e-4e47-ba65-a5f25cda506f,Laptop Stand,99.73,4,FREESHIP,Harmonport
+2023-02-12,e26df59c-3a05-42d3-af11-3d86d5346e07,Smartphone Case,396.66,4,WELCOME,Rochamouth
+2023-05-24,7ea165fd-0493-4376-91a1-4e37a95794f4,Smartphone Case,10.4,2,,South Dana
+2023-05-19,c36e8f4c-d642-42ce-9641-18a39d777cc1,USB-C Cable,338.67,3,,North Beth
+2023-05-04,4a5d3204-c892-421d-a782-91c1c51b1c9b,Gaming Keyboard,269.83,4,,Adamfort
+2023-06-14,3195e79e-9b59-4dcf-9fed-4d175606f62f,Laptop Stand,479.14,2,SPRING20,East Jason
+2023-03-22,7243ed82-3e63-4f38-83bc-986fdb3b4460,USB-C Cable,114.77,3,,Millerchester
+2024-01-06,4667341f-fc55-4dbe-b628-1558aec6c3e4,Smartphone Case,275.47,4,,Smithshire
+2023-12-05,a595f932-5395-4c68-9b67-cde8864907a2,Noise Cancelling Earbuds,434.77,1,,North Nicoletown
+2023-10-29,b452c2c0-31b5-47b2-b5e3-5f01e9656d8d,Gaming Keyboard,110.61,4,,Lauramouth
+2023-09-08,a8296616-86a5-4c15-a6e6-7c4f3822abdb,Portable Charger,143.77,2,,New Jane
+2023-02-13,e3a05904-2915-40d1-98f1-2d5a2f6e836a,Bluetooth Headphones,348.3,2,,East Debrahaven
+2023-04-09,62cf0b18-579f-4731-901e-0ad33c370f7e,Bluetooth Headphones,308.16,3,,East David
+2023-09-26,07dc98b0-101e-4b9f-95d2-9c0f6beba7fb,LED Monitor,232.44,3,,New Jane
+2024-04-17,b1ea239d-82a5-4128-878b-cb37bd84076a,Smartphone Case,470.25,4,WELCOME,South Michealland
+2023-04-14,d8dd4198-a95d-4feb-baa6-115c4dabd075,Smart Watch,254.28,3,WELCOME,North Jaredshire
+2023-10-07,1b8520fe-3289-4ac2-af69-21912ffe2e36,USB-C Cable,278.98,1,FREESHIP,Manuelview
+2023-12-05,082fb0d2-3f7a-41a5-be14-a3b11f427bc7,LED Monitor,51.99,4,SAVE10,Harmonport
+2023-05-05,1bba270c-ba6c-4263-9dd7-7a6253f22b3c,USB-C Cable,422.12,5,SAVE10,Port Corey
+2023-02-05,72dc0720-45b0-45e7-81a4-acecba61e481,Portable Charger,286.43,1,,Dalefurt
+2023-09-15,f6634c60-fe1e-407e-b495-cb3c27fb8c75,USB-C Cable,445.32,2,WELCOME,Stevenshire
+2023-12-17,69b6684d-a10e-48ea-93c5-d4369c98bf6d,LED Monitor,494.13,4,WELCOME,South Michealland
