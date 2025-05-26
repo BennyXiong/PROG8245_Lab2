@@ -5,7 +5,8 @@ The purpose of this lab is to:
 * Deliver a well-commented Jupyter Notebook that loads raw data, cleans and enriches it, and finishes with a concise analytical insight. 
 ## Quick-start
 To run the code in the repository, execute the following command: 
-* python -m venv venv, pip install -r requirements.txt, jupyter notebook.
+* python -m venv venv
+* pip install -r requirements.txt
 ## Data source
 Data is generate by ChatGpt with the following prompt:
 * Ecommerce dataset: generate a e-commerce 500 rows dataset in csv format with columns date, customer_id, product, price, quantity, coupon_code (or promo field), shipping_city
